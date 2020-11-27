@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+        <!-- Other CSS -->
+        <link rel="stylesheet" href="index.css">
+
+        <!-- fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+
+        <title>Merry Christmas!</title>
+    </head>
+    <body>
+        <dir id="" class="pmo">
+            <div id="opening" class="section">
+                <div class="row">
+                    <div class="col-md-5 pmo jumbo-container">
+                        <div class="jumbo-text">Dear</div>
+                        <div class="jumbo-text">Brown</div>
+                        <div class="jumbo-text">Eyed</div>
+                        <div class="jumbo-text">Cutie...</div>
+                    </div>
+                    <div class="col-md-7 pmo">
+                        <img src="images/opening.jpeg" class="full-screen">
+                    </div>
+                </div>
+            </div>
+            <div class="parallax" style="background-image: url('images/parallax1.jpg');">
+            </div>
+            <div id="intro" class="section">
+                <div class="full-screen vert-center">
+                    <div>🎄 Merry Christmas! 🎄</div>
+                    <br>
+                    <div>I loved spending 2019 with you, even more than I love playing League 😮. I know that’s hard for you to believe, considering how nerdy I am lol. That’s why I decided to show you all the moments that made this year absolutely amazing. </div>
+                    <br>
+                    <div>I hope you enjoy scrolling through this as much as I’ve enjoyed getting to know you, spending time with you, and loving you this past year :)</div>
+                </div>
+            </div>
+            <div class="parallax" style="background-image: url('images/parallax2.jpg');"></div>
+            <div class="cont">
+                <div id="photos" class="section">
+                </div>
+            </div>
+            <div class="parallax" style="background-image: url('images/parallax3.jpg');"></div>
+            <div id="intro" class="section">
+                <div class="full-screen vert-center">
+                    <div>Wow that was a lot of pictures. But I hope you understand how much you mean to me and how much I love spending time with you! You’ve made this year incredible, and I can’t wait to see how our relationship continues to mature even through long distance.</div>
+                    <br>
+                    <div> I love you so so so much Court! Have a merry Christmas, and let’s have a happy new year (and many more) together :) simpsimpsimp</div>
+                </div>
+            </div>
+            <div class="parallax" style="background-image: url('images/parallax4.jpg');"></div>
+            <div id="footer" class="section">
+                <div class="row">
+                    <div class="col-md-7 pmo">
+                        <img src="images/footer.jpeg" class="full-screen">
+                    </div>
+                    <div class="col-md-5 pmo jumbo-container">
+                        <div class="jumbo-text">Love,</div>
+                        <div class="jumbo-text">Chan</div>
+                        <div class="jumbo-text">Woo</div>
+                        <div class="jumbo-text">Hwang</div>
+                    </div>
+                </div>
+            </div>
+        </dir>        
+
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+        <!-- Other JS Files -->
+        <script src="ImageGrid.js"></script>
+        <script type="text/javascript">
+            var myImages = [];
+            var myContainer = document.querySelectorAll('#photos')[0];
+             
+            /**
+             * @param {array} An array containing all the images
+             * @param {element} The container element .
+             * @param {int} The start height of each row.
+             * @param {int} Border offset. (the right or left side for one item)
+             *
+             * @return {object}
+             */
+            var myGrid = new BH.ImageGrid(
+                myImages, // The images
+                myContainer, // The container (we take the width from this element)
+                300, // The height we want each row to start from
+                5 // How much margin on the images.
+            );
+
+            // Add links to photos.html
+            let photos = document.querySelectorAll(".grid-image");
+            let counter = 1;
+            for (let idx = 0; idx < photos.length; idx++) {
+                let photo = photos[idx];
+                photo.onclick = function(counter) {
+                    return function() {
+                        window.open("photos.html#" + counter);
+                    };
+                }(counter);
+
+                if (idx != 1 && idx != 2 && idx != 4 && idx != 5 && idx != 7 && idx != 10 && idx != 13 && idx != 15 && idx != 16 && idx != 17 && idx != 28) {
+                    counter++;
+                }
+            }
+
+        </script>
+    </body>
+</html>
