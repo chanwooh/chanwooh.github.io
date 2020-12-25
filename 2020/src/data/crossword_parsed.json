@@ -1,0 +1,7950 @@
+{
+  "squares": [
+    {
+      "squareIndex": 0,
+      "across": {
+        "puzzleIndex": 1,
+        "hint": "Not often",
+        "relatedSquares": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 7
+      },
+      "down": {
+        "puzzleIndex": 1,
+        "hint": "Opposite of difference",
+        "relatedSquares": [
+          0,
+          15,
+          30
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 1
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": true,
+      "isRelated": true,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 1,
+      "across": {
+        "puzzleIndex": 1,
+        "hint": "Not often",
+        "relatedSquares": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 7
+      },
+      "down": {
+        "puzzleIndex": 2,
+        "hint": "Add 15 for this to be accurate for Court., usually",
+        "relatedSquares": [
+          1,
+          16,
+          31
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 2
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": true,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 2,
+      "across": {
+        "puzzleIndex": 1,
+        "hint": "Not often",
+        "relatedSquares": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 7
+      },
+      "down": {
+        "puzzleIndex": 3,
+        "hint": "Dan in Forrest Gump (Abbr.)",
+        "relatedSquares": [
+          2,
+          17,
+          32
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 3
+      },
+      "guess": "",
+      "answer": "L",
+      "isSelected": false,
+      "isRelated": true,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 3,
+      "across": {
+        "puzzleIndex": 1,
+        "hint": "Not often",
+        "relatedSquares": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 7
+      },
+      "down": {
+        "puzzleIndex": 4,
+        "hint": "One might think these are the opposite of faith",
+        "relatedSquares": [
+          3,
+          18,
+          33,
+          48,
+          63,
+          78
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 4
+      },
+      "guess": "",
+      "answer": "D",
+      "isSelected": false,
+      "isRelated": true,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 4,
+      "across": {
+        "puzzleIndex": 1,
+        "hint": "Not often",
+        "relatedSquares": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 7
+      },
+      "down": {
+        "puzzleIndex": 5,
+        "hint": "How Alex Lee might say 'Actually, you're right!'",
+        "relatedSquares": [
+          4,
+          19,
+          34,
+          49,
+          64
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 5
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": true,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 5,
+      "across": {
+        "puzzleIndex": 1,
+        "hint": "Not often",
+        "relatedSquares": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 7
+      },
+      "down": {
+        "puzzleIndex": 6,
+        "hint": "#1 dog in the world",
+        "relatedSquares": [
+          5,
+          20,
+          35,
+          50,
+          65
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 7
+      },
+      "guess": "",
+      "answer": "M",
+      "isSelected": false,
+      "isRelated": true,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 6,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 7,
+      "across": {
+        "puzzleIndex": 7,
+        "hint": "Ship E.T.'s might come out of",
+        "relatedSquares": [
+          7,
+          8,
+          9
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 11
+      },
+      "down": {
+        "puzzleIndex": 7,
+        "hint": "#1 public school in CA",
+        "relatedSquares": [
+          7,
+          22,
+          37
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 8
+      },
+      "guess": "",
+      "answer": "U",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 8,
+      "across": {
+        "puzzleIndex": 7,
+        "hint": "Ship E.T.'s might come out of",
+        "relatedSquares": [
+          7,
+          8,
+          9
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 11
+      },
+      "down": {
+        "puzzleIndex": 8,
+        "hint": "High profile physician in charge of leading the United States through Coronavirus",
+        "relatedSquares": [
+          8,
+          23,
+          38,
+          53,
+          68
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 9
+      },
+      "guess": "",
+      "answer": "F",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 9,
+      "across": {
+        "puzzleIndex": 7,
+        "hint": "Ship E.T.'s might come out of",
+        "relatedSquares": [
+          7,
+          8,
+          9
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 11
+      },
+      "down": {
+        "puzzleIndex": 9,
+        "hint": "'Nevermind, I guess...'",
+        "relatedSquares": [
+          9,
+          24,
+          39,
+          54,
+          69
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 11
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 10,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 146
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 11,
+      "across": {
+        "puzzleIndex": 10,
+        "hint": "Word on the street in front of a school crosswalk",
+        "relatedSquares": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 15
+      },
+      "down": {
+        "puzzleIndex": 10,
+        "hint": "Small",
+        "relatedSquares": [
+          11,
+          26,
+          41,
+          56
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 12
+      },
+      "guess": "",
+      "answer": "X",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 12,
+      "across": {
+        "puzzleIndex": 10,
+        "hint": "Word on the street in front of a school crosswalk",
+        "relatedSquares": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 15
+      },
+      "down": {
+        "puzzleIndex": 11,
+        "hint": "Lazily",
+        "relatedSquares": [
+          12,
+          27,
+          42,
+          57
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 13
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 13,
+      "across": {
+        "puzzleIndex": 10,
+        "hint": "Word on the street in front of a school crosswalk",
+        "relatedSquares": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 15
+      },
+      "down": {
+        "puzzleIndex": 12,
+        "hint": "Prefix with liberal or n",
+        "relatedSquares": [
+          13,
+          28,
+          43
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 14
+      },
+      "guess": "",
+      "answer": "N",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 14,
+      "across": {
+        "puzzleIndex": 10,
+        "hint": "Word on the street in front of a school crosswalk",
+        "relatedSquares": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 15
+      },
+      "down": {
+        "puzzleIndex": 13,
+        "hint": "Charlie's favorite bball team",
+        "relatedSquares": [
+          14,
+          29,
+          44
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 25
+      },
+      "guess": "",
+      "answer": "G",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 15,
+      "across": {
+        "puzzleIndex": 14,
+        "hint": "Dep. Salt Lake City and arr. in Honolulu",
+        "relatedSquares": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 22
+      },
+      "down": {
+        "puzzleIndex": 1,
+        "hint": "Opposite of difference",
+        "relatedSquares": [
+          0,
+          15,
+          30
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 1
+      },
+      "guess": "",
+      "answer": "U",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 16,
+      "across": {
+        "puzzleIndex": 14,
+        "hint": "Dep. Salt Lake City and arr. in Honolulu",
+        "relatedSquares": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 22
+      },
+      "down": {
+        "puzzleIndex": 2,
+        "hint": "Add 15 for this to be accurate for Court., usually",
+        "relatedSquares": [
+          1,
+          16,
+          31
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 2
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 17,
+      "across": {
+        "puzzleIndex": 14,
+        "hint": "Dep. Salt Lake City and arr. in Honolulu",
+        "relatedSquares": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 22
+      },
+      "down": {
+        "puzzleIndex": 3,
+        "hint": "Dan in Forrest Gump (Abbr.)",
+        "relatedSquares": [
+          2,
+          17,
+          32
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 3
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 18,
+      "across": {
+        "puzzleIndex": 14,
+        "hint": "Dep. Salt Lake City and arr. in Honolulu",
+        "relatedSquares": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 22
+      },
+      "down": {
+        "puzzleIndex": 4,
+        "hint": "One might think these are the opposite of faith",
+        "relatedSquares": [
+          3,
+          18,
+          33,
+          48,
+          63,
+          78
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 4
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 19,
+      "across": {
+        "puzzleIndex": 14,
+        "hint": "Dep. Salt Lake City and arr. in Honolulu",
+        "relatedSquares": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 22
+      },
+      "down": {
+        "puzzleIndex": 5,
+        "hint": "How Alex Lee might say 'Actually, you're right!'",
+        "relatedSquares": [
+          4,
+          19,
+          34,
+          49,
+          64
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 5
+      },
+      "guess": "",
+      "answer": "H",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 20,
+      "across": {
+        "puzzleIndex": 14,
+        "hint": "Dep. Salt Lake City and arr. in Honolulu",
+        "relatedSquares": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 22
+      },
+      "down": {
+        "puzzleIndex": 6,
+        "hint": "#1 dog in the world",
+        "relatedSquares": [
+          5,
+          20,
+          35,
+          50,
+          65
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 7
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 21,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 22,
+      "across": {
+        "puzzleIndex": 15,
+        "hint": "What one can find at Disneyland's Radiator Springs?",
+        "relatedSquares": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "isHead": true,
+        "answerLength": 8,
+        "nextClueSquareIndex": 30
+      },
+      "down": {
+        "puzzleIndex": 7,
+        "hint": "#1 public school in CA",
+        "relatedSquares": [
+          7,
+          22,
+          37
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 8
+      },
+      "guess": "",
+      "answer": "C",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 23,
+      "across": {
+        "puzzleIndex": 15,
+        "hint": "What one can find at Disneyland's Radiator Springs?",
+        "relatedSquares": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 30
+      },
+      "down": {
+        "puzzleIndex": 8,
+        "hint": "High profile physician in charge of leading the United States through Coronavirus",
+        "relatedSquares": [
+          8,
+          23,
+          38,
+          53,
+          68
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 9
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 24,
+      "across": {
+        "puzzleIndex": 15,
+        "hint": "What one can find at Disneyland's Radiator Springs?",
+        "relatedSquares": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 30
+      },
+      "down": {
+        "puzzleIndex": 9,
+        "hint": "'Nevermind, I guess...'",
+        "relatedSquares": [
+          9,
+          24,
+          39,
+          54,
+          69
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 11
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 25,
+      "across": {
+        "puzzleIndex": 15,
+        "hint": "What one can find at Disneyland's Radiator Springs?",
+        "relatedSquares": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 30
+      },
+      "down": {
+        "puzzleIndex": 16,
+        "hint": "Sprt. considered tobe a cross of soccer and football",
+        "relatedSquares": [
+          25,
+          40,
+          55,
+          70
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 51
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 26,
+      "across": {
+        "puzzleIndex": 15,
+        "hint": "What one can find at Disneyland's Radiator Springs?",
+        "relatedSquares": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 30
+      },
+      "down": {
+        "puzzleIndex": 10,
+        "hint": "Small",
+        "relatedSquares": [
+          11,
+          26,
+          41,
+          56
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 12
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 27,
+      "across": {
+        "puzzleIndex": 15,
+        "hint": "What one can find at Disneyland's Radiator Springs?",
+        "relatedSquares": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 30
+      },
+      "down": {
+        "puzzleIndex": 11,
+        "hint": "Lazily",
+        "relatedSquares": [
+          12,
+          27,
+          42,
+          57
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 13
+      },
+      "guess": "",
+      "answer": "D",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 28,
+      "across": {
+        "puzzleIndex": 15,
+        "hint": "What one can find at Disneyland's Radiator Springs?",
+        "relatedSquares": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 30
+      },
+      "down": {
+        "puzzleIndex": 12,
+        "hint": "Prefix with liberal or n",
+        "relatedSquares": [
+          13,
+          28,
+          43
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 14
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 29,
+      "across": {
+        "puzzleIndex": 15,
+        "hint": "What one can find at Disneyland's Radiator Springs?",
+        "relatedSquares": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 30
+      },
+      "down": {
+        "puzzleIndex": 13,
+        "hint": "Charlie's favorite bball team",
+        "relatedSquares": [
+          14,
+          29,
+          44
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 25
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 30,
+      "across": {
+        "puzzleIndex": 17,
+        "hint": "Renowned soccer club in Eng. Premier League",
+        "relatedSquares": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 37
+      },
+      "down": {
+        "puzzleIndex": 1,
+        "hint": "Opposite of difference",
+        "relatedSquares": [
+          0,
+          15,
+          30
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 1
+      },
+      "guess": "",
+      "answer": "M",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 31,
+      "across": {
+        "puzzleIndex": 17,
+        "hint": "Renowned soccer club in Eng. Premier League",
+        "relatedSquares": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 37
+      },
+      "down": {
+        "puzzleIndex": 2,
+        "hint": "Add 15 for this to be accurate for Court., usually",
+        "relatedSquares": [
+          1,
+          16,
+          31
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 2
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 32,
+      "across": {
+        "puzzleIndex": 17,
+        "hint": "Renowned soccer club in Eng. Premier League",
+        "relatedSquares": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 37
+      },
+      "down": {
+        "puzzleIndex": 3,
+        "hint": "Dan in Forrest Gump (Abbr.)",
+        "relatedSquares": [
+          2,
+          17,
+          32
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 3
+      },
+      "guess": "",
+      "answer": "N",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 33,
+      "across": {
+        "puzzleIndex": 17,
+        "hint": "Renowned soccer club in Eng. Premier League",
+        "relatedSquares": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 37
+      },
+      "down": {
+        "puzzleIndex": 4,
+        "hint": "One might think these are the opposite of faith",
+        "relatedSquares": [
+          3,
+          18,
+          33,
+          48,
+          63,
+          78
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 4
+      },
+      "guess": "",
+      "answer": "U",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 34,
+      "across": {
+        "puzzleIndex": 17,
+        "hint": "Renowned soccer club in Eng. Premier League",
+        "relatedSquares": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 37
+      },
+      "down": {
+        "puzzleIndex": 5,
+        "hint": "How Alex Lee might say 'Actually, you're right!'",
+        "relatedSquares": [
+          4,
+          19,
+          34,
+          49,
+          64
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 5
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 35,
+      "across": {
+        "puzzleIndex": 17,
+        "hint": "Renowned soccer club in Eng. Premier League",
+        "relatedSquares": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 37
+      },
+      "down": {
+        "puzzleIndex": 6,
+        "hint": "#1 dog in the world",
+        "relatedSquares": [
+          5,
+          20,
+          35,
+          50,
+          65
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 7
+      },
+      "guess": "",
+      "answer": "D",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 36,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 154
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 37,
+      "across": {
+        "puzzleIndex": 18,
+        "hint": "Small, single story house",
+        "relatedSquares": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "isHead": true,
+        "answerLength": 8,
+        "nextClueSquareIndex": 48
+      },
+      "down": {
+        "puzzleIndex": 7,
+        "hint": "#1 public school in CA",
+        "relatedSquares": [
+          7,
+          22,
+          37
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 8
+      },
+      "guess": "",
+      "answer": "B",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 38,
+      "across": {
+        "puzzleIndex": 18,
+        "hint": "Small, single story house",
+        "relatedSquares": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 48
+      },
+      "down": {
+        "puzzleIndex": 8,
+        "hint": "High profile physician in charge of leading the United States through Coronavirus",
+        "relatedSquares": [
+          8,
+          23,
+          38,
+          53,
+          68
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 9
+      },
+      "guess": "",
+      "answer": "U",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 39,
+      "across": {
+        "puzzleIndex": 18,
+        "hint": "Small, single story house",
+        "relatedSquares": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 48
+      },
+      "down": {
+        "puzzleIndex": 9,
+        "hint": "'Nevermind, I guess...'",
+        "relatedSquares": [
+          9,
+          24,
+          39,
+          54,
+          69
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 11
+      },
+      "guess": "",
+      "answer": "N",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 40,
+      "across": {
+        "puzzleIndex": 18,
+        "hint": "Small, single story house",
+        "relatedSquares": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 48
+      },
+      "down": {
+        "puzzleIndex": 16,
+        "hint": "Sprt. considered tobe a cross of soccer and football",
+        "relatedSquares": [
+          25,
+          40,
+          55,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 51
+      },
+      "guess": "",
+      "answer": "G",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 41,
+      "across": {
+        "puzzleIndex": 18,
+        "hint": "Small, single story house",
+        "relatedSquares": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 48
+      },
+      "down": {
+        "puzzleIndex": 10,
+        "hint": "Small",
+        "relatedSquares": [
+          11,
+          26,
+          41,
+          56
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 12
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 42,
+      "across": {
+        "puzzleIndex": 18,
+        "hint": "Small, single story house",
+        "relatedSquares": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 48
+      },
+      "down": {
+        "puzzleIndex": 11,
+        "hint": "Lazily",
+        "relatedSquares": [
+          12,
+          27,
+          42,
+          57
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 13
+      },
+      "guess": "",
+      "answer": "L",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 43,
+      "across": {
+        "puzzleIndex": 18,
+        "hint": "Small, single story house",
+        "relatedSquares": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 48
+      },
+      "down": {
+        "puzzleIndex": 12,
+        "hint": "Prefix with liberal or n",
+        "relatedSquares": [
+          13,
+          28,
+          43
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 14
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 44,
+      "across": {
+        "puzzleIndex": 18,
+        "hint": "Small, single story house",
+        "relatedSquares": [
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 48
+      },
+      "down": {
+        "puzzleIndex": 13,
+        "hint": "Charlie's favorite bball team",
+        "relatedSquares": [
+          14,
+          29,
+          44
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 25
+      },
+      "guess": "",
+      "answer": "W",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 45,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 46,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 47,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 48,
+      "across": {
+        "puzzleIndex": 19,
+        "hint": "Bro, in heavier slang",
+        "relatedSquares": [
+          48,
+          49,
+          50,
+          51
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 53
+      },
+      "down": {
+        "puzzleIndex": 4,
+        "hint": "One might think these are the opposite of faith",
+        "relatedSquares": [
+          3,
+          18,
+          33,
+          48,
+          63,
+          78
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 4
+      },
+      "guess": "",
+      "answer": "B",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 49,
+      "across": {
+        "puzzleIndex": 19,
+        "hint": "Bro, in heavier slang",
+        "relatedSquares": [
+          48,
+          49,
+          50,
+          51
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 53
+      },
+      "down": {
+        "puzzleIndex": 5,
+        "hint": "How Alex Lee might say 'Actually, you're right!'",
+        "relatedSquares": [
+          4,
+          19,
+          34,
+          49,
+          64
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 5
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 50,
+      "across": {
+        "puzzleIndex": 19,
+        "hint": "Bro, in heavier slang",
+        "relatedSquares": [
+          48,
+          49,
+          50,
+          51
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 53
+      },
+      "down": {
+        "puzzleIndex": 6,
+        "hint": "#1 dog in the world",
+        "relatedSquares": [
+          5,
+          20,
+          35,
+          50,
+          65
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 7
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 51,
+      "across": {
+        "puzzleIndex": 19,
+        "hint": "Bro, in heavier slang",
+        "relatedSquares": [
+          48,
+          49,
+          50,
+          51
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 53
+      },
+      "down": {
+        "puzzleIndex": 20,
+        "hint": "Environmentally conscious vehicle type",
+        "relatedSquares": [
+          51,
+          66,
+          81,
+          96,
+          111,
+          126
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 60
+      },
+      "guess": "",
+      "answer": "H",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 52,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 159
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 53,
+      "across": {
+        "puzzleIndex": 21,
+        "hint": "Cowboy without any wins, wordplay",
+        "relatedSquares": [
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 60
+      },
+      "down": {
+        "puzzleIndex": 8,
+        "hint": "High profile physician in charge of leading the United States through Coronavirus",
+        "relatedSquares": [
+          8,
+          23,
+          38,
+          53,
+          68
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 9
+      },
+      "guess": "",
+      "answer": "C",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 54,
+      "across": {
+        "puzzleIndex": 21,
+        "hint": "Cowboy without any wins, wordplay",
+        "relatedSquares": [
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 60
+      },
+      "down": {
+        "puzzleIndex": 9,
+        "hint": "'Nevermind, I guess...'",
+        "relatedSquares": [
+          9,
+          24,
+          39,
+          54,
+          69
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 11
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 55,
+      "across": {
+        "puzzleIndex": 21,
+        "hint": "Cowboy without any wins, wordplay",
+        "relatedSquares": [
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 60
+      },
+      "down": {
+        "puzzleIndex": 16,
+        "hint": "Sprt. considered tobe a cross of soccer and football",
+        "relatedSquares": [
+          25,
+          40,
+          55,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 51
+      },
+      "guess": "",
+      "answer": "B",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 56,
+      "across": {
+        "puzzleIndex": 21,
+        "hint": "Cowboy without any wins, wordplay",
+        "relatedSquares": [
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 60
+      },
+      "down": {
+        "puzzleIndex": 10,
+        "hint": "Small",
+        "relatedSquares": [
+          11,
+          26,
+          41,
+          56
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 12
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 57,
+      "across": {
+        "puzzleIndex": 21,
+        "hint": "Cowboy without any wins, wordplay",
+        "relatedSquares": [
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 60
+      },
+      "down": {
+        "puzzleIndex": 11,
+        "hint": "Lazily",
+        "relatedSquares": [
+          12,
+          27,
+          42,
+          57
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 13
+      },
+      "guess": "",
+      "answer": "Y",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 58,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 59,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 60,
+      "across": {
+        "puzzleIndex": 22,
+        "hint": "Town for very old seniors?",
+        "relatedSquares": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "isHead": true,
+        "answerLength": 11,
+        "nextClueSquareIndex": 75
+      },
+      "down": {
+        "puzzleIndex": 22,
+        "hint": "Popularized component of weed (acronym)",
+        "relatedSquares": [
+          60,
+          75,
+          90
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 61
+      },
+      "guess": "",
+      "answer": "C",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 61,
+      "across": {
+        "puzzleIndex": 22,
+        "hint": "Town for very old seniors?",
+        "relatedSquares": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 75
+      },
+      "down": {
+        "puzzleIndex": 23,
+        "hint": "Famous tower in France",
+        "relatedSquares": [
+          61,
+          76,
+          91,
+          106,
+          121,
+          136
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 62
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 62,
+      "across": {
+        "puzzleIndex": 22,
+        "hint": "Town for very old seniors?",
+        "relatedSquares": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 75
+      },
+      "down": {
+        "puzzleIndex": 24,
+        "hint": "Something one might say if promotions played just before the climax of a show",
+        "relatedSquares": [
+          62,
+          77,
+          92,
+          107,
+          122,
+          137
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 67
+      },
+      "guess": "",
+      "answer": "N",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 63,
+      "across": {
+        "puzzleIndex": 22,
+        "hint": "Town for very old seniors?",
+        "relatedSquares": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 75
+      },
+      "down": {
+        "puzzleIndex": 4,
+        "hint": "One might think these are the opposite of faith",
+        "relatedSquares": [
+          3,
+          18,
+          33,
+          48,
+          63,
+          78
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 4
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 64,
+      "across": {
+        "puzzleIndex": 22,
+        "hint": "Town for very old seniors?",
+        "relatedSquares": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 75
+      },
+      "down": {
+        "puzzleIndex": 5,
+        "hint": "How Alex Lee might say 'Actually, you're right!'",
+        "relatedSquares": [
+          4,
+          19,
+          34,
+          49,
+          64
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 5
+      },
+      "guess": "",
+      "answer": "U",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 65,
+      "across": {
+        "puzzleIndex": 22,
+        "hint": "Town for very old seniors?",
+        "relatedSquares": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 75
+      },
+      "down": {
+        "puzzleIndex": 6,
+        "hint": "#1 dog in the world",
+        "relatedSquares": [
+          5,
+          20,
+          35,
+          50,
+          65
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 7
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 66,
+      "across": {
+        "puzzleIndex": 22,
+        "hint": "Town for very old seniors?",
+        "relatedSquares": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 75
+      },
+      "down": {
+        "puzzleIndex": 20,
+        "hint": "Environmentally conscious vehicle type",
+        "relatedSquares": [
+          51,
+          66,
+          81,
+          96,
+          111,
+          126
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 60
+      },
+      "guess": "",
+      "answer": "Y",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 67,
+      "across": {
+        "puzzleIndex": 22,
+        "hint": "Town for very old seniors?",
+        "relatedSquares": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 75
+      },
+      "down": {
+        "puzzleIndex": 25,
+        "hint": "Girl germs",
+        "relatedSquares": [
+          67,
+          82,
+          97,
+          112,
+          127,
+          142,
+          157
+        ],
+        "isHead": true,
+        "answerLength": 7,
+        "nextClueSquareIndex": 74
+      },
+      "guess": "",
+      "answer": "C",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 68,
+      "across": {
+        "puzzleIndex": 22,
+        "hint": "Town for very old seniors?",
+        "relatedSquares": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 75
+      },
+      "down": {
+        "puzzleIndex": 8,
+        "hint": "High profile physician in charge of leading the United States through Coronavirus",
+        "relatedSquares": [
+          8,
+          23,
+          38,
+          53,
+          68
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 9
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 69,
+      "across": {
+        "puzzleIndex": 22,
+        "hint": "Town for very old seniors?",
+        "relatedSquares": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 75
+      },
+      "down": {
+        "puzzleIndex": 9,
+        "hint": "'Nevermind, I guess...'",
+        "relatedSquares": [
+          9,
+          24,
+          39,
+          54,
+          69
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 11
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 70,
+      "across": {
+        "puzzleIndex": 22,
+        "hint": "Town for very old seniors?",
+        "relatedSquares": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 75
+      },
+      "down": {
+        "puzzleIndex": 16,
+        "hint": "Sprt. considered tobe a cross of soccer and football",
+        "relatedSquares": [
+          25,
+          40,
+          55,
+          70
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 51
+      },
+      "guess": "",
+      "answer": "Y",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 71,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 72,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 187
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 73,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 168
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 74,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": 26,
+        "hint": "Vid. game Charlie loves and hates",
+        "relatedSquares": [
+          74,
+          89,
+          104
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 86
+      },
+      "guess": "",
+      "answer": "L",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 75,
+      "across": {
+        "puzzleIndex": 27,
+        "hint": "One can find bible verses in these in Insta, usually",
+        "relatedSquares": [
+          75,
+          76,
+          77,
+          78
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 81
+      },
+      "down": {
+        "puzzleIndex": 22,
+        "hint": "Popularized component of weed (acronym)",
+        "relatedSquares": [
+          60,
+          75,
+          90
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 61
+      },
+      "guess": "",
+      "answer": "B",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 76,
+      "across": {
+        "puzzleIndex": 27,
+        "hint": "One can find bible verses in these in Insta, usually",
+        "relatedSquares": [
+          75,
+          76,
+          77,
+          78
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 81
+      },
+      "down": {
+        "puzzleIndex": 23,
+        "hint": "Famous tower in France",
+        "relatedSquares": [
+          61,
+          76,
+          91,
+          106,
+          121,
+          136
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 62
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 77,
+      "across": {
+        "puzzleIndex": 27,
+        "hint": "One can find bible verses in these in Insta, usually",
+        "relatedSquares": [
+          75,
+          76,
+          77,
+          78
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 81
+      },
+      "down": {
+        "puzzleIndex": 24,
+        "hint": "Something one might say if promotions played just before the climax of a show",
+        "relatedSquares": [
+          62,
+          77,
+          92,
+          107,
+          122,
+          137
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 67
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 78,
+      "across": {
+        "puzzleIndex": 27,
+        "hint": "One can find bible verses in these in Insta, usually",
+        "relatedSquares": [
+          75,
+          76,
+          77,
+          78
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 81
+      },
+      "down": {
+        "puzzleIndex": 4,
+        "hint": "One might think these are the opposite of faith",
+        "relatedSquares": [
+          3,
+          18,
+          33,
+          48,
+          63,
+          78
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 4
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 79,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 180
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 80,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 167
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 81,
+      "across": {
+        "puzzleIndex": 28,
+        "hint": "Dealbreaking attribute for Court., when choosing a significant other",
+        "relatedSquares": [
+          81,
+          82
+        ],
+        "isHead": true,
+        "answerLength": 2,
+        "nextClueSquareIndex": 86
+      },
+      "down": {
+        "puzzleIndex": 20,
+        "hint": "Environmentally conscious vehicle type",
+        "relatedSquares": [
+          51,
+          66,
+          81,
+          96,
+          111,
+          126
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 60
+      },
+      "guess": "",
+      "answer": "B",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 82,
+      "across": {
+        "puzzleIndex": 28,
+        "hint": "Dealbreaking attribute for Court., when choosing a significant other",
+        "relatedSquares": [
+          81,
+          82
+        ],
+        "isHead": false,
+        "answerLength": 2,
+        "nextClueSquareIndex": 86
+      },
+      "down": {
+        "puzzleIndex": 25,
+        "hint": "Girl germs",
+        "relatedSquares": [
+          67,
+          82,
+          97,
+          112,
+          127,
+          142,
+          157
+        ],
+        "isHead": false,
+        "answerLength": 7,
+        "nextClueSquareIndex": 74
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 83,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 84,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 146
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 85,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 86,
+      "across": {
+        "puzzleIndex": 29,
+        "hint": "Words used in an analogy",
+        "relatedSquares": [
+          86,
+          87,
+          88,
+          89
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 90
+      },
+      "down": {
+        "puzzleIndex": 29,
+        "hint": "System of household objects connected to the internet (acronym)",
+        "relatedSquares": [
+          86,
+          101,
+          116
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 87
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 87,
+      "across": {
+        "puzzleIndex": 29,
+        "hint": "Words used in an analogy",
+        "relatedSquares": [
+          86,
+          87,
+          88,
+          89
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 90
+      },
+      "down": {
+        "puzzleIndex": 30,
+        "hint": "Lyrics: My heart's a ______",
+        "relatedSquares": [
+          87,
+          102,
+          117,
+          132,
+          147,
+          162
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 88
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 88,
+      "across": {
+        "puzzleIndex": 29,
+        "hint": "Words used in an analogy",
+        "relatedSquares": [
+          86,
+          87,
+          88,
+          89
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 90
+      },
+      "down": {
+        "puzzleIndex": 31,
+        "hint": "Friendliest club",
+        "relatedSquares": [
+          88,
+          103,
+          118,
+          133,
+          148,
+          163
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 94
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 89,
+      "across": {
+        "puzzleIndex": 29,
+        "hint": "Words used in an analogy",
+        "relatedSquares": [
+          86,
+          87,
+          88,
+          89
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 90
+      },
+      "down": {
+        "puzzleIndex": 26,
+        "hint": "Vid. game Charlie loves and hates",
+        "relatedSquares": [
+          74,
+          89,
+          104
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 86
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 90,
+      "across": {
+        "puzzleIndex": 32,
+        "hint": "Opposite of vict.",
+        "relatedSquares": [
+          90,
+          91,
+          92
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 94
+      },
+      "down": {
+        "puzzleIndex": 22,
+        "hint": "Popularized component of weed (acronym)",
+        "relatedSquares": [
+          60,
+          75,
+          90
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 61
+      },
+      "guess": "",
+      "answer": "D",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 91,
+      "across": {
+        "puzzleIndex": 32,
+        "hint": "Opposite of vict.",
+        "relatedSquares": [
+          90,
+          91,
+          92
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 94
+      },
+      "down": {
+        "puzzleIndex": 23,
+        "hint": "Famous tower in France",
+        "relatedSquares": [
+          61,
+          76,
+          91,
+          106,
+          121,
+          136
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 62
+      },
+      "guess": "",
+      "answer": "F",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 92,
+      "across": {
+        "puzzleIndex": 32,
+        "hint": "Opposite of vict.",
+        "relatedSquares": [
+          90,
+          91,
+          92
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 94
+      },
+      "down": {
+        "puzzleIndex": 24,
+        "hint": "Something one might say if promotions played just before the climax of a show",
+        "relatedSquares": [
+          62,
+          77,
+          92,
+          107,
+          122,
+          137
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 67
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 93,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 154
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 94,
+      "across": {
+        "puzzleIndex": 33,
+        "hint": "Someone who might be responsible for catching Death Eaters",
+        "relatedSquares": [
+          94,
+          95,
+          96,
+          97,
+          98
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 100
+      },
+      "down": {
+        "puzzleIndex": 33,
+        "hint": "House Representative of NY",
+        "relatedSquares": [
+          94,
+          109,
+          124
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 95
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 95,
+      "across": {
+        "puzzleIndex": 33,
+        "hint": "Someone who might be responsible for catching Death Eaters",
+        "relatedSquares": [
+          94,
+          95,
+          96,
+          97,
+          98
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 100
+      },
+      "down": {
+        "puzzleIndex": 34,
+        "hint": "Your, in a blue or green bubble",
+        "relatedSquares": [
+          95,
+          110
+        ],
+        "isHead": true,
+        "answerLength": 2,
+        "nextClueSquareIndex": 98
+      },
+      "guess": "",
+      "answer": "U",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 96,
+      "across": {
+        "puzzleIndex": 33,
+        "hint": "Someone who might be responsible for catching Death Eaters",
+        "relatedSquares": [
+          94,
+          95,
+          96,
+          97,
+          98
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 100
+      },
+      "down": {
+        "puzzleIndex": 20,
+        "hint": "Environmentally conscious vehicle type",
+        "relatedSquares": [
+          51,
+          66,
+          81,
+          96,
+          111,
+          126
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 60
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 97,
+      "across": {
+        "puzzleIndex": 33,
+        "hint": "Someone who might be responsible for catching Death Eaters",
+        "relatedSquares": [
+          94,
+          95,
+          96,
+          97,
+          98
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 100
+      },
+      "down": {
+        "puzzleIndex": 25,
+        "hint": "Girl germs",
+        "relatedSquares": [
+          67,
+          82,
+          97,
+          112,
+          127,
+          142,
+          157
+        ],
+        "isHead": false,
+        "answerLength": 7,
+        "nextClueSquareIndex": 74
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 98,
+      "across": {
+        "puzzleIndex": 33,
+        "hint": "Someone who might be responsible for catching Death Eaters",
+        "relatedSquares": [
+          94,
+          95,
+          96,
+          97,
+          98
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 100
+      },
+      "down": {
+        "puzzleIndex": 35,
+        "hint": "Grade schoolers' favorite time of a school day",
+        "relatedSquares": [
+          98,
+          113,
+          128,
+          143,
+          158,
+          173
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 100
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 99,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 100,
+      "across": {
+        "puzzleIndex": 36,
+        "hint": "All together",
+        "relatedSquares": [
+          100,
+          101,
+          102,
+          103,
+          104
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 106
+      },
+      "down": {
+        "puzzleIndex": 36,
+        "hint": "Wee bit",
+        "relatedSquares": [
+          100,
+          115,
+          130
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 108
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 101,
+      "across": {
+        "puzzleIndex": 36,
+        "hint": "All together",
+        "relatedSquares": [
+          100,
+          101,
+          102,
+          103,
+          104
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 106
+      },
+      "down": {
+        "puzzleIndex": 29,
+        "hint": "System of household objects connected to the internet (acronym)",
+        "relatedSquares": [
+          86,
+          101,
+          116
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 87
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 102,
+      "across": {
+        "puzzleIndex": 36,
+        "hint": "All together",
+        "relatedSquares": [
+          100,
+          101,
+          102,
+          103,
+          104
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 106
+      },
+      "down": {
+        "puzzleIndex": 30,
+        "hint": "Lyrics: My heart's a ______",
+        "relatedSquares": [
+          87,
+          102,
+          117,
+          132,
+          147,
+          162
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 88
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 103,
+      "across": {
+        "puzzleIndex": 36,
+        "hint": "All together",
+        "relatedSquares": [
+          100,
+          101,
+          102,
+          103,
+          104
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 106
+      },
+      "down": {
+        "puzzleIndex": 31,
+        "hint": "Friendliest club",
+        "relatedSquares": [
+          88,
+          103,
+          118,
+          133,
+          148,
+          163
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 94
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 104,
+      "across": {
+        "puzzleIndex": 36,
+        "hint": "All together",
+        "relatedSquares": [
+          100,
+          101,
+          102,
+          103,
+          104
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 106
+      },
+      "down": {
+        "puzzleIndex": 26,
+        "hint": "Vid. game Charlie loves and hates",
+        "relatedSquares": [
+          74,
+          89,
+          104
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 86
+      },
+      "guess": "",
+      "answer": "L",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 105,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 106,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": true,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 23,
+        "hint": "Famous tower in France",
+        "relatedSquares": [
+          61,
+          76,
+          91,
+          106,
+          121,
+          136
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 62
+      },
+      "guess": "",
+      "answer": "F",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 107,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 24,
+        "hint": "Something one might say if promotions played just before the climax of a show",
+        "relatedSquares": [
+          62,
+          77,
+          92,
+          107,
+          122,
+          137
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 67
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 108,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 38,
+        "hint": "Compete (for)",
+        "relatedSquares": [
+          108,
+          123,
+          138
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 114
+      },
+      "guess": "",
+      "answer": "V",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 109,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 33,
+        "hint": "House Representative of NY",
+        "relatedSquares": [
+          94,
+          109,
+          124
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 95
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 110,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 34,
+        "hint": "Your, in a blue or green bubble",
+        "relatedSquares": [
+          95,
+          110
+        ],
+        "isHead": false,
+        "answerLength": 2,
+        "nextClueSquareIndex": 98
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 111,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 20,
+        "hint": "Environmentally conscious vehicle type",
+        "relatedSquares": [
+          51,
+          66,
+          81,
+          96,
+          111,
+          126
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 60
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 112,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 25,
+        "hint": "Girl germs",
+        "relatedSquares": [
+          67,
+          82,
+          97,
+          112,
+          127,
+          142,
+          157
+        ],
+        "isHead": false,
+        "answerLength": 7,
+        "nextClueSquareIndex": 74
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 113,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 35,
+        "hint": "Grade schoolers' favorite time of a school day",
+        "relatedSquares": [
+          98,
+          113,
+          128,
+          143,
+          158,
+          173
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 100
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 114,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 39,
+        "hint": "Of (Sp.)",
+        "relatedSquares": [
+          114,
+          129
+        ],
+        "isHead": true,
+        "answerLength": 2,
+        "nextClueSquareIndex": 120
+      },
+      "guess": "",
+      "answer": "D",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 115,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 36,
+        "hint": "Wee bit",
+        "relatedSquares": [
+          100,
+          115,
+          130
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 108
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 116,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 29,
+        "hint": "System of household objects connected to the internet (acronym)",
+        "relatedSquares": [
+          86,
+          101,
+          116
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 87
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 117,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 30,
+        "hint": "Lyrics: My heart's a ______ ",
+        "relatedSquares": [
+          87,
+          102,
+          117,
+          132,
+          147,
+          162
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 88
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 118,
+      "across": {
+        "puzzleIndex": 37,
+        "hint": "What 5A, 10A, 24A, 29A are",
+        "relatedSquares": [
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118
+        ],
+        "isHead": false,
+        "answerLength": 13,
+        "nextClueSquareIndex": 120
+      },
+      "down": {
+        "puzzleIndex": 31,
+        "hint": "Friendliest club",
+        "relatedSquares": [
+          88,
+          103,
+          118,
+          133,
+          148,
+          163
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 94
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 119,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 120,
+      "across": {
+        "puzzleIndex": 40,
+        "hint": "What your dad would be if he joined the military",
+        "relatedSquares": [
+          120,
+          121,
+          122,
+          123,
+          124
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 126
+      },
+      "down": {
+        "puzzleIndex": 40,
+        "hint": "'___ got it!'",
+        "relatedSquares": [
+          120,
+          135,
+          150
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 134
+      },
+      "guess": "",
+      "answer": "M",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 121,
+      "across": {
+        "puzzleIndex": 40,
+        "hint": "What your dad would be if he joined the military",
+        "relatedSquares": [
+          120,
+          121,
+          122,
+          123,
+          124
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 126
+      },
+      "down": {
+        "puzzleIndex": 23,
+        "hint": "Famous tower in France",
+        "relatedSquares": [
+          61,
+          76,
+          91,
+          106,
+          121,
+          136
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 62
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 122,
+      "across": {
+        "puzzleIndex": 40,
+        "hint": "What your dad would be if he joined the military",
+        "relatedSquares": [
+          120,
+          121,
+          122,
+          123,
+          124
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 126
+      },
+      "down": {
+        "puzzleIndex": 24,
+        "hint": "Something one might say if promotions played just before the climax of a show",
+        "relatedSquares": [
+          62,
+          77,
+          92,
+          107,
+          122,
+          137
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 67
+      },
+      "guess": "",
+      "answer": "D",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 123,
+      "across": {
+        "puzzleIndex": 40,
+        "hint": "What your dad would be if he joined the military",
+        "relatedSquares": [
+          120,
+          121,
+          122,
+          123,
+          124
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 126
+      },
+      "down": {
+        "puzzleIndex": 38,
+        "hint": "Compete (for)",
+        "relatedSquares": [
+          108,
+          123,
+          138
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 114
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 124,
+      "across": {
+        "puzzleIndex": 40,
+        "hint": "What your dad would be if he joined the military",
+        "relatedSquares": [
+          120,
+          121,
+          122,
+          123,
+          124
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 126
+      },
+      "down": {
+        "puzzleIndex": 33,
+        "hint": "House Representative of NY",
+        "relatedSquares": [
+          94,
+          109,
+          124
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 95
+      },
+      "guess": "",
+      "answer": "C",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 125,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 159
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 126,
+      "across": {
+        "puzzleIndex": 41,
+        "hint": "Cut up into cubes",
+        "relatedSquares": [
+          126,
+          127,
+          128,
+          129,
+          130
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 132
+      },
+      "down": {
+        "puzzleIndex": 20,
+        "hint": "Environmentally conscious vehicle type",
+        "relatedSquares": [
+          51,
+          66,
+          81,
+          96,
+          111,
+          126
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 60
+      },
+      "guess": "",
+      "answer": "D",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 127,
+      "across": {
+        "puzzleIndex": 41,
+        "hint": "Cut up into cubes",
+        "relatedSquares": [
+          126,
+          127,
+          128,
+          129,
+          130
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 132
+      },
+      "down": {
+        "puzzleIndex": 25,
+        "hint": "Girl germs",
+        "relatedSquares": [
+          67,
+          82,
+          97,
+          112,
+          127,
+          142,
+          157
+        ],
+        "isHead": false,
+        "answerLength": 7,
+        "nextClueSquareIndex": 74
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 128,
+      "across": {
+        "puzzleIndex": 41,
+        "hint": "Cut up into cubes",
+        "relatedSquares": [
+          126,
+          127,
+          128,
+          129,
+          130
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 132
+      },
+      "down": {
+        "puzzleIndex": 35,
+        "hint": "Grade schoolers' favorite time of a school day",
+        "relatedSquares": [
+          98,
+          113,
+          128,
+          143,
+          158,
+          173
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 100
+      },
+      "guess": "",
+      "answer": "C",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 129,
+      "across": {
+        "puzzleIndex": 41,
+        "hint": "Cut up into cubes",
+        "relatedSquares": [
+          126,
+          127,
+          128,
+          129,
+          130
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 132
+      },
+      "down": {
+        "puzzleIndex": 39,
+        "hint": "Of (Sp.)",
+        "relatedSquares": [
+          114,
+          129
+        ],
+        "isHead": false,
+        "answerLength": 2,
+        "nextClueSquareIndex": 120
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 130,
+      "across": {
+        "puzzleIndex": 41,
+        "hint": "Cut up into cubes",
+        "relatedSquares": [
+          126,
+          127,
+          128,
+          129,
+          130
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 132
+      },
+      "down": {
+        "puzzleIndex": 36,
+        "hint": "Wee bit",
+        "relatedSquares": [
+          100,
+          115,
+          130
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 108
+      },
+      "guess": "",
+      "answer": "D",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 131,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 132,
+      "across": {
+        "puzzleIndex": 42,
+        "hint": "Equity given in tech employment contracts",
+        "relatedSquares": [
+          132,
+          133,
+          134
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 135
+      },
+      "down": {
+        "puzzleIndex": 30,
+        "hint": "Lyrics: My heart's a ______",
+        "relatedSquares": [
+          87,
+          102,
+          117,
+          132,
+          147,
+          162
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 88
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 133,
+      "across": {
+        "puzzleIndex": 42,
+        "hint": "Equity given in tech employment contracts",
+        "relatedSquares": [
+          132,
+          133,
+          134
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 135
+      },
+      "down": {
+        "puzzleIndex": 31,
+        "hint": "Friendliest club",
+        "relatedSquares": [
+          88,
+          103,
+          118,
+          133,
+          148,
+          163
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 94
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 134,
+      "across": {
+        "puzzleIndex": 42,
+        "hint": "Equity given in tech employment contracts",
+        "relatedSquares": [
+          132,
+          133,
+          134
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 135
+      },
+      "down": {
+        "puzzleIndex": 43,
+        "hint": "Guitar alt. for one in Oahu",
+        "relatedSquares": [
+          134,
+          149,
+          164
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 146
+      },
+      "guess": "",
+      "answer": "U",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 135,
+      "across": {
+        "puzzleIndex": 44,
+        "hint": "if {...} ___ {...}",
+        "relatedSquares": [
+          135,
+          136,
+          137,
+          138
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 142
+      },
+      "down": {
+        "puzzleIndex": 40,
+        "hint": "'___ got it!'",
+        "relatedSquares": [
+          120,
+          135,
+          150
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 134
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 136,
+      "across": {
+        "puzzleIndex": 44,
+        "hint": "if {...} ___ {...}",
+        "relatedSquares": [
+          135,
+          136,
+          137,
+          138
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 142
+      },
+      "down": {
+        "puzzleIndex": 23,
+        "hint": "Famous tower in France",
+        "relatedSquares": [
+          61,
+          76,
+          91,
+          106,
+          121,
+          136
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 62
+      },
+      "guess": "",
+      "answer": "L",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 137,
+      "across": {
+        "puzzleIndex": 44,
+        "hint": "if {...} ___ {...}",
+        "relatedSquares": [
+          135,
+          136,
+          137,
+          138
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 142
+      },
+      "down": {
+        "puzzleIndex": 24,
+        "hint": "Something one might say if promotions played just before the climax of a show",
+        "relatedSquares": [
+          62,
+          77,
+          92,
+          107,
+          122,
+          137
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 67
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 138,
+      "across": {
+        "puzzleIndex": 44,
+        "hint": "if {...} ___ {...}",
+        "relatedSquares": [
+          135,
+          136,
+          137,
+          138
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 142
+      },
+      "down": {
+        "puzzleIndex": 38,
+        "hint": "Compete (for)",
+        "relatedSquares": [
+          108,
+          123,
+          138
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 114
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 139,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 140,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 141,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 187
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 142,
+      "across": {
+        "puzzleIndex": 45,
+        "hint": "Austin's major before CS",
+        "relatedSquares": [
+          142,
+          143
+        ],
+        "isHead": true,
+        "answerLength": 2,
+        "nextClueSquareIndex": 146
+      },
+      "down": {
+        "puzzleIndex": 25,
+        "hint": "Girl germs",
+        "relatedSquares": [
+          67,
+          82,
+          97,
+          112,
+          127,
+          142,
+          157
+        ],
+        "isHead": false,
+        "answerLength": 7,
+        "nextClueSquareIndex": 74
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 143,
+      "across": {
+        "puzzleIndex": 45,
+        "hint": "Austin's major before CS",
+        "relatedSquares": [
+          142,
+          143
+        ],
+        "isHead": false,
+        "answerLength": 2,
+        "nextClueSquareIndex": 146
+      },
+      "down": {
+        "puzzleIndex": 35,
+        "hint": "Grade schoolers' favorite time of a school day",
+        "relatedSquares": [
+          98,
+          113,
+          128,
+          143,
+          158,
+          173
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 100
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 144,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 168
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 145,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 180
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 146,
+      "across": {
+        "puzzleIndex": 46,
+        "hint": "Charlie in high school",
+        "relatedSquares": [
+          146,
+          147,
+          148,
+          149
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 154
+      },
+      "down": {
+        "puzzleIndex": 46,
+        "hint": "'Hope ya sleep well!'",
+        "relatedSquares": [
+          146,
+          161,
+          176,
+          191,
+          206,
+          221
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 154
+      },
+      "guess": "",
+      "answer": "G",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 147,
+      "across": {
+        "puzzleIndex": 46,
+        "hint": "Charlie in high school",
+        "relatedSquares": [
+          146,
+          147,
+          148,
+          149
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 154
+      },
+      "down": {
+        "puzzleIndex": 30,
+        "hint": "Lyrics: My heart's a ______",
+        "relatedSquares": [
+          87,
+          102,
+          117,
+          132,
+          147,
+          162
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 88
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 148,
+      "across": {
+        "puzzleIndex": 46,
+        "hint": "Charlie in high school",
+        "relatedSquares": [
+          146,
+          147,
+          148,
+          149
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 154
+      },
+      "down": {
+        "puzzleIndex": 31,
+        "hint": "Friendliest club",
+        "relatedSquares": [
+          88,
+          103,
+          118,
+          133,
+          148,
+          163
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 94
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 149,
+      "across": {
+        "puzzleIndex": 46,
+        "hint": "Charlie in high school",
+        "relatedSquares": [
+          146,
+          147,
+          148,
+          149
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 154
+      },
+      "down": {
+        "puzzleIndex": 43,
+        "hint": "Guitar alt. for one in Oahu",
+        "relatedSquares": [
+          134,
+          149,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 146
+      },
+      "guess": "",
+      "answer": "K",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 150,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": 40,
+        "hint": "'___ got it!'",
+        "relatedSquares": [
+          120,
+          135,
+          150
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 134
+      },
+      "guess": "",
+      "answer": "W",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 151,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 167
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 152,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 153,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 154,
+      "across": {
+        "puzzleIndex": 47,
+        "hint": "Hill where lunch is not served?",
+        "relatedSquares": [
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "isHead": true,
+        "answerLength": 11,
+        "nextClueSquareIndex": 167
+      },
+      "down": {
+        "puzzleIndex": 47,
+        "hint": "Tightly hold",
+        "relatedSquares": [
+          154,
+          169,
+          184,
+          199
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 155
+      },
+      "guess": "",
+      "answer": "G",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 155,
+      "across": {
+        "puzzleIndex": 47,
+        "hint": "Hill where lunch is not served?",
+        "relatedSquares": [
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 167
+      },
+      "down": {
+        "puzzleIndex": 48,
+        "hint": "Summarize",
+        "relatedSquares": [
+          155,
+          170,
+          185,
+          200,
+          215
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 156
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 156,
+      "across": {
+        "puzzleIndex": 47,
+        "hint": "Hill where lunch is not served?",
+        "relatedSquares": [
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 167
+      },
+      "down": {
+        "puzzleIndex": 49,
+        "hint": "One single count of dress Kelly from The Office might wear",
+        "relatedSquares": [
+          156,
+          171,
+          186,
+          201,
+          216
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 159
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 157,
+      "across": {
+        "puzzleIndex": 47,
+        "hint": "Hill where lunch is not served?",
+        "relatedSquares": [
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 167
+      },
+      "down": {
+        "puzzleIndex": 25,
+        "hint": "Girl germs",
+        "relatedSquares": [
+          67,
+          82,
+          97,
+          112,
+          127,
+          142,
+          157
+        ],
+        "isHead": false,
+        "answerLength": 7,
+        "nextClueSquareIndex": 74
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 158,
+      "across": {
+        "puzzleIndex": 47,
+        "hint": "Hill where lunch is not served?",
+        "relatedSquares": [
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 167
+      },
+      "down": {
+        "puzzleIndex": 35,
+        "hint": "Grade schoolers' favorite time of a school day",
+        "relatedSquares": [
+          98,
+          113,
+          128,
+          143,
+          158,
+          173
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 100
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 159,
+      "across": {
+        "puzzleIndex": 47,
+        "hint": "Hill where lunch is not served?",
+        "relatedSquares": [
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 167
+      },
+      "down": {
+        "puzzleIndex": 50,
+        "hint": "'Woo Hoo!'",
+        "relatedSquares": [
+          159,
+          174,
+          189,
+          204,
+          219
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 160
+      },
+      "guess": "",
+      "answer": "Y",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 160,
+      "across": {
+        "puzzleIndex": 47,
+        "hint": "Hill where lunch is not served?",
+        "relatedSquares": [
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 167
+      },
+      "down": {
+        "puzzleIndex": 51,
+        "hint": "Mini shrimp",
+        "relatedSquares": [
+          160,
+          175,
+          190,
+          205,
+          220
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 167
+      },
+      "guess": "",
+      "answer": "K",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 161,
+      "across": {
+        "puzzleIndex": 47,
+        "hint": "Hill where lunch is not served?",
+        "relatedSquares": [
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 167
+      },
+      "down": {
+        "puzzleIndex": 46,
+        "hint": "'Hope ya sleep well!'",
+        "relatedSquares": [
+          146,
+          161,
+          176,
+          191,
+          206,
+          221
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 154
+      },
+      "guess": "",
+      "answer": "N",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 162,
+      "across": {
+        "puzzleIndex": 47,
+        "hint": "Hill where lunch is not served?",
+        "relatedSquares": [
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 167
+      },
+      "down": {
+        "puzzleIndex": 30,
+        "hint": "Lyrics: My heart's a ______",
+        "relatedSquares": [
+          87,
+          102,
+          117,
+          132,
+          147,
+          162
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 88
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 163,
+      "across": {
+        "puzzleIndex": 47,
+        "hint": "Hill where lunch is not served?",
+        "relatedSquares": [
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 167
+      },
+      "down": {
+        "puzzleIndex": 31,
+        "hint": "Friendliest club",
+        "relatedSquares": [
+          88,
+          103,
+          118,
+          133,
+          148,
+          163
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 94
+      },
+      "guess": "",
+      "answer": "L",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 164,
+      "across": {
+        "puzzleIndex": 47,
+        "hint": "Hill where lunch is not served?",
+        "relatedSquares": [
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 11,
+        "nextClueSquareIndex": 167
+      },
+      "down": {
+        "puzzleIndex": 43,
+        "hint": "Guitar alt. for one in Oahu",
+        "relatedSquares": [
+          134,
+          149,
+          164
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 146
+      },
+      "guess": "",
+      "answer": "L",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 165,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 166,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 154
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 167,
+      "across": {
+        "puzzleIndex": 52,
+        "hint": "There are 17 of these in The Coliseum",
+        "relatedSquares": [
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 173
+      },
+      "down": {
+        "puzzleIndex": 52,
+        "hint": "Sore",
+        "relatedSquares": [
+          167,
+          182,
+          197,
+          212
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 168
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 168,
+      "across": {
+        "puzzleIndex": 52,
+        "hint": "There are 17 of these in The Coliseum",
+        "relatedSquares": [
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 173
+      },
+      "down": {
+        "puzzleIndex": 53,
+        "hint": "Cut (down a tree)",
+        "relatedSquares": [
+          168,
+          183,
+          198,
+          213
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 180
+      },
+      "guess": "",
+      "answer": "C",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 169,
+      "across": {
+        "puzzleIndex": 52,
+        "hint": "There are 17 of these in The Coliseum",
+        "relatedSquares": [
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 173
+      },
+      "down": {
+        "puzzleIndex": 47,
+        "hint": "Tightly hold",
+        "relatedSquares": [
+          154,
+          169,
+          184,
+          199
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 155
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 170,
+      "across": {
+        "puzzleIndex": 52,
+        "hint": "There are 17 of these in The Coliseum",
+        "relatedSquares": [
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 173
+      },
+      "down": {
+        "puzzleIndex": 48,
+        "hint": "Summarize",
+        "relatedSquares": [
+          155,
+          170,
+          185,
+          200,
+          215
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 156
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 171,
+      "across": {
+        "puzzleIndex": 52,
+        "hint": "There are 17 of these in The Coliseum",
+        "relatedSquares": [
+          167,
+          168,
+          169,
+          170,
+          171
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 173
+      },
+      "down": {
+        "puzzleIndex": 49,
+        "hint": "One single count of dress Kelly from The Office might wear",
+        "relatedSquares": [
+          156,
+          171,
+          186,
+          201,
+          216
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 159
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 172,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 173,
+      "across": {
+        "puzzleIndex": 54,
+        "hint": "The voice of Apple",
+        "relatedSquares": [
+          173,
+          174,
+          175,
+          176
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 180
+      },
+      "down": {
+        "puzzleIndex": 35,
+        "hint": "Grade schoolers' favorite time of a school day",
+        "relatedSquares": [
+          98,
+          113,
+          128,
+          143,
+          158,
+          173
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 100
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 174,
+      "across": {
+        "puzzleIndex": 54,
+        "hint": "The voice of Apple",
+        "relatedSquares": [
+          173,
+          174,
+          175,
+          176
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 180
+      },
+      "down": {
+        "puzzleIndex": 50,
+        "hint": "'Woo Hoo!'",
+        "relatedSquares": [
+          159,
+          174,
+          189,
+          204,
+          219
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 160
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 175,
+      "across": {
+        "puzzleIndex": 54,
+        "hint": "The voice of Apple",
+        "relatedSquares": [
+          173,
+          174,
+          175,
+          176
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 180
+      },
+      "down": {
+        "puzzleIndex": 51,
+        "hint": "Mini shrimp",
+        "relatedSquares": [
+          160,
+          175,
+          190,
+          205,
+          220
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 167
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 176,
+      "across": {
+        "puzzleIndex": 54,
+        "hint": "The voice of Apple",
+        "relatedSquares": [
+          173,
+          174,
+          175,
+          176
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 180
+      },
+      "down": {
+        "puzzleIndex": 46,
+        "hint": "'Hope ya sleep well!'",
+        "relatedSquares": [
+          146,
+          161,
+          176,
+          191,
+          206,
+          221
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 154
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 177,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 178,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 179,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 159
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 180,
+      "across": {
+        "puzzleIndex": 55,
+        "hint": "'Goodnight!' companion",
+        "relatedSquares": [
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187
+        ],
+        "isHead": true,
+        "answerLength": 8,
+        "nextClueSquareIndex": 189
+      },
+      "down": {
+        "puzzleIndex": 55,
+        "hint": "Many of oneself",
+        "relatedSquares": [
+          180,
+          195,
+          210
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 181
+      },
+      "guess": "",
+      "answer": "M",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 181,
+      "across": {
+        "puzzleIndex": 55,
+        "hint": "'Goodnight!' companion",
+        "relatedSquares": [
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 189
+      },
+      "down": {
+        "puzzleIndex": 56,
+        "hint": "The scariest month of the yr.",
+        "relatedSquares": [
+          181,
+          196,
+          211
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 187
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 182,
+      "across": {
+        "puzzleIndex": 55,
+        "hint": "'Goodnight!' companion",
+        "relatedSquares": [
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 189
+      },
+      "down": {
+        "puzzleIndex": 52,
+        "hint": "Sore",
+        "relatedSquares": [
+          167,
+          182,
+          197,
+          212
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 168
+      },
+      "guess": "",
+      "answer": "C",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 183,
+      "across": {
+        "puzzleIndex": 55,
+        "hint": "'Goodnight!' companion",
+        "relatedSquares": [
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 189
+      },
+      "down": {
+        "puzzleIndex": 53,
+        "hint": "Cut (down a tree)",
+        "relatedSquares": [
+          168,
+          183,
+          198,
+          213
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 180
+      },
+      "guess": "",
+      "answer": "H",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 184,
+      "across": {
+        "puzzleIndex": 55,
+        "hint": "'Goodnight!' companion",
+        "relatedSquares": [
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 189
+      },
+      "down": {
+        "puzzleIndex": 47,
+        "hint": "Tightly hold",
+        "relatedSquares": [
+          154,
+          169,
+          184,
+          199
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 155
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 185,
+      "across": {
+        "puzzleIndex": 55,
+        "hint": "'Goodnight!' companion",
+        "relatedSquares": [
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 189
+      },
+      "down": {
+        "puzzleIndex": 48,
+        "hint": "Summarize",
+        "relatedSquares": [
+          155,
+          170,
+          185,
+          200,
+          215
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 156
+      },
+      "guess": "",
+      "answer": "C",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 186,
+      "across": {
+        "puzzleIndex": 55,
+        "hint": "'Goodnight!' companion",
+        "relatedSquares": [
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 189
+      },
+      "down": {
+        "puzzleIndex": 49,
+        "hint": "One single count of dress Kelly from The Office might wear",
+        "relatedSquares": [
+          156,
+          171,
+          186,
+          201,
+          216
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 159
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 187,
+      "across": {
+        "puzzleIndex": 55,
+        "hint": "'Goodnight!' companion",
+        "relatedSquares": [
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 189
+      },
+      "down": {
+        "puzzleIndex": 57,
+        "hint": "'To Come' in publishing (pl.)",
+        "relatedSquares": [
+          187,
+          202,
+          217
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 192
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 188,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 189,
+      "across": {
+        "puzzleIndex": 58,
+        "hint": "Ice cream that Jews and Muslims cannot eat?",
+        "relatedSquares": [
+          189,
+          190,
+          191,
+          192,
+          193,
+          194
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 195
+      },
+      "down": {
+        "puzzleIndex": 50,
+        "hint": "'Woo Hoo!'",
+        "relatedSquares": [
+          159,
+          174,
+          189,
+          204,
+          219
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 160
+      },
+      "guess": "",
+      "answer": "P",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 190,
+      "across": {
+        "puzzleIndex": 58,
+        "hint": "Ice cream that Jews and Muslims cannot eat?",
+        "relatedSquares": [
+          189,
+          190,
+          191,
+          192,
+          193,
+          194
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 195
+      },
+      "down": {
+        "puzzleIndex": 51,
+        "hint": "Mini shrimp",
+        "relatedSquares": [
+          160,
+          175,
+          190,
+          205,
+          220
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 167
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 191,
+      "across": {
+        "puzzleIndex": 58,
+        "hint": "Ice cream that Jews and Muslims cannot eat?",
+        "relatedSquares": [
+          189,
+          190,
+          191,
+          192,
+          193,
+          194
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 195
+      },
+      "down": {
+        "puzzleIndex": 46,
+        "hint": "'Hope ya sleep well!'",
+        "relatedSquares": [
+          146,
+          161,
+          176,
+          191,
+          206,
+          221
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 154
+      },
+      "guess": "",
+      "answer": "G",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 192,
+      "across": {
+        "puzzleIndex": 58,
+        "hint": "Ice cream that Jews and Muslims cannot eat?",
+        "relatedSquares": [
+          189,
+          190,
+          191,
+          192,
+          193,
+          194
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 195
+      },
+      "down": {
+        "puzzleIndex": 59,
+        "hint": "One of three sci. subjects in high school",
+        "relatedSquares": [
+          192,
+          207,
+          222
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 193
+      },
+      "guess": "",
+      "answer": "B",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 193,
+      "across": {
+        "puzzleIndex": 58,
+        "hint": "Ice cream that Jews and Muslims cannot eat?",
+        "relatedSquares": [
+          189,
+          190,
+          191,
+          192,
+          193,
+          194
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 195
+      },
+      "down": {
+        "puzzleIndex": 60,
+        "hint": "One single count of an 11th grader",
+        "relatedSquares": [
+          193,
+          208,
+          223
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 194
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 194,
+      "across": {
+        "puzzleIndex": 58,
+        "hint": "Ice cream that Jews and Muslims cannot eat?",
+        "relatedSquares": [
+          189,
+          190,
+          191,
+          192,
+          193,
+          194
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 195
+      },
+      "down": {
+        "puzzleIndex": 61,
+        "hint": "Robin the ___",
+        "relatedSquares": [
+          194,
+          209,
+          224
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": -1
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 195,
+      "across": {
+        "puzzleIndex": 62,
+        "hint": "Place for bats to socialize?",
+        "relatedSquares": [
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202
+        ],
+        "isHead": true,
+        "answerLength": 8,
+        "nextClueSquareIndex": 204
+      },
+      "down": {
+        "puzzleIndex": 55,
+        "hint": "Many of oneself",
+        "relatedSquares": [
+          180,
+          195,
+          210
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 181
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 196,
+      "across": {
+        "puzzleIndex": 62,
+        "hint": "Place for bats to socialize?",
+        "relatedSquares": [
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 204
+      },
+      "down": {
+        "puzzleIndex": 56,
+        "hint": "The scariest month of the yr.",
+        "relatedSquares": [
+          181,
+          196,
+          211
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 187
+      },
+      "guess": "",
+      "answer": "C",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 197,
+      "across": {
+        "puzzleIndex": 62,
+        "hint": "Place for bats to socialize?",
+        "relatedSquares": [
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 204
+      },
+      "down": {
+        "puzzleIndex": 52,
+        "hint": "Sore",
+        "relatedSquares": [
+          167,
+          182,
+          197,
+          212
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 168
+      },
+      "guess": "",
+      "answer": "H",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 198,
+      "across": {
+        "puzzleIndex": 62,
+        "hint": "Place for bats to socialize?",
+        "relatedSquares": [
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 204
+      },
+      "down": {
+        "puzzleIndex": 53,
+        "hint": "Cut (down a tree)",
+        "relatedSquares": [
+          168,
+          183,
+          198,
+          213
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 180
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 199,
+      "across": {
+        "puzzleIndex": 62,
+        "hint": "Place for bats to socialize?",
+        "relatedSquares": [
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 204
+      },
+      "down": {
+        "puzzleIndex": 47,
+        "hint": "Tightly hold",
+        "relatedSquares": [
+          154,
+          169,
+          184,
+          199
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 155
+      },
+      "guess": "",
+      "answer": "P",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 200,
+      "across": {
+        "puzzleIndex": 62,
+        "hint": "Place for bats to socialize?",
+        "relatedSquares": [
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 204
+      },
+      "down": {
+        "puzzleIndex": 48,
+        "hint": "Summarize",
+        "relatedSquares": [
+          155,
+          170,
+          185,
+          200,
+          215
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 156
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 201,
+      "across": {
+        "puzzleIndex": 62,
+        "hint": "Place for bats to socialize?",
+        "relatedSquares": [
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 204
+      },
+      "down": {
+        "puzzleIndex": 49,
+        "hint": "One single count of dress Kelly from The Office might wear",
+        "relatedSquares": [
+          156,
+          171,
+          186,
+          201,
+          216
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 159
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 202,
+      "across": {
+        "puzzleIndex": 62,
+        "hint": "Place for bats to socialize?",
+        "relatedSquares": [
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202
+        ],
+        "isHead": false,
+        "answerLength": 8,
+        "nextClueSquareIndex": 204
+      },
+      "down": {
+        "puzzleIndex": 57,
+        "hint": "'To Come' in publishing (pl.)",
+        "relatedSquares": [
+          187,
+          202,
+          217
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 192
+      },
+      "guess": "",
+      "answer": "K",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 203,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 204,
+      "across": {
+        "puzzleIndex": 63,
+        "hint": "What Jesus may be called in Mexico",
+        "relatedSquares": [
+          204,
+          205,
+          206,
+          207,
+          208,
+          209
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": 210
+      },
+      "down": {
+        "puzzleIndex": 50,
+        "hint": "'Woo Hoo!'",
+        "relatedSquares": [
+          159,
+          174,
+          189,
+          204,
+          219
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 160
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 205,
+      "across": {
+        "puzzleIndex": 63,
+        "hint": "What Jesus may be called in Mexico",
+        "relatedSquares": [
+          204,
+          205,
+          206,
+          207,
+          208,
+          209
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 210
+      },
+      "down": {
+        "puzzleIndex": 51,
+        "hint": "Mini shrimp",
+        "relatedSquares": [
+          160,
+          175,
+          190,
+          205,
+          220
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 167
+      },
+      "guess": "",
+      "answer": "L",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 206,
+      "across": {
+        "puzzleIndex": 63,
+        "hint": "What Jesus may be called in Mexico",
+        "relatedSquares": [
+          204,
+          205,
+          206,
+          207,
+          208,
+          209
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 210
+      },
+      "down": {
+        "puzzleIndex": 46,
+        "hint": "'Hope ya sleep well!'",
+        "relatedSquares": [
+          146,
+          161,
+          176,
+          191,
+          206,
+          221
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 154
+      },
+      "guess": "",
+      "answer": "H",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 207,
+      "across": {
+        "puzzleIndex": 63,
+        "hint": "What Jesus may be called in Mexico",
+        "relatedSquares": [
+          204,
+          205,
+          206,
+          207,
+          208,
+          209
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 210
+      },
+      "down": {
+        "puzzleIndex": 59,
+        "hint": "One of three sci. subjects in high school",
+        "relatedSquares": [
+          192,
+          207,
+          222
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 193
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 208,
+      "across": {
+        "puzzleIndex": 63,
+        "hint": "What Jesus may be called in Mexico",
+        "relatedSquares": [
+          204,
+          205,
+          206,
+          207,
+          208,
+          209
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 210
+      },
+      "down": {
+        "puzzleIndex": 60,
+        "hint": "One single count of an 11th grader",
+        "relatedSquares": [
+          193,
+          208,
+          223
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 194
+      },
+      "guess": "",
+      "answer": "J",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 209,
+      "across": {
+        "puzzleIndex": 63,
+        "hint": "What Jesus may be called in Mexico",
+        "relatedSquares": [
+          204,
+          205,
+          206,
+          207,
+          208,
+          209
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 210
+      },
+      "down": {
+        "puzzleIndex": 61,
+        "hint": "Robin the ___",
+        "relatedSquares": [
+          194,
+          209,
+          224
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": -1
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 210,
+      "across": {
+        "puzzleIndex": 64,
+        "hint": "Prefix with son or ladder",
+        "relatedSquares": [
+          210,
+          211,
+          212,
+          213
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 215
+      },
+      "down": {
+        "puzzleIndex": 55,
+        "hint": "Many of oneself",
+        "relatedSquares": [
+          180,
+          195,
+          210
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 181
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 211,
+      "across": {
+        "puzzleIndex": 64,
+        "hint": "Prefix with son or ladder",
+        "relatedSquares": [
+          210,
+          211,
+          212,
+          213
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 215
+      },
+      "down": {
+        "puzzleIndex": 56,
+        "hint": "The scariest month of the yr.",
+        "relatedSquares": [
+          181,
+          196,
+          211
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 187
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 212,
+      "across": {
+        "puzzleIndex": 64,
+        "hint": "Prefix with son or ladder",
+        "relatedSquares": [
+          210,
+          211,
+          212,
+          213
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 215
+      },
+      "down": {
+        "puzzleIndex": 52,
+        "hint": "Sore",
+        "relatedSquares": [
+          167,
+          182,
+          197,
+          212
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 168
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 213,
+      "across": {
+        "puzzleIndex": 64,
+        "hint": "Prefix with son or ladder",
+        "relatedSquares": [
+          210,
+          211,
+          212,
+          213
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 215
+      },
+      "down": {
+        "puzzleIndex": 53,
+        "hint": "Cut (down a tree)",
+        "relatedSquares": [
+          168,
+          183,
+          198,
+          213
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 180
+      },
+      "guess": "",
+      "answer": "P",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 214,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 215,
+      "across": {
+        "puzzleIndex": 65,
+        "hint": "Detectives (abbr.)",
+        "relatedSquares": [
+          215,
+          216,
+          217
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 219
+      },
+      "down": {
+        "puzzleIndex": 48,
+        "hint": "Summarize",
+        "relatedSquares": [
+          155,
+          170,
+          185,
+          200,
+          215
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 156
+      },
+      "guess": "",
+      "answer": "P",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 216,
+      "across": {
+        "puzzleIndex": 65,
+        "hint": "Detectives (abbr.)",
+        "relatedSquares": [
+          215,
+          216,
+          217
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 219
+      },
+      "down": {
+        "puzzleIndex": 49,
+        "hint": "One single count of dress Kelly from The Office might wear",
+        "relatedSquares": [
+          156,
+          171,
+          186,
+          201,
+          216
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 159
+      },
+      "guess": "",
+      "answer": "I",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 217,
+      "across": {
+        "puzzleIndex": 65,
+        "hint": "Detectives (abbr.)",
+        "relatedSquares": [
+          215,
+          216,
+          217
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 219
+      },
+      "down": {
+        "puzzleIndex": 57,
+        "hint": "'To Come' in publishing (pl.)",
+        "relatedSquares": [
+          187,
+          202,
+          217
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 192
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 218,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0,
+        "nextClueSquareIndex": 187
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 219,
+      "across": {
+        "puzzleIndex": 66,
+        "hint": "The bull: Sp.",
+        "relatedSquares": [
+          219,
+          220,
+          221,
+          222,
+          223,
+          224
+        ],
+        "isHead": true,
+        "answerLength": 6,
+        "nextClueSquareIndex": -1
+      },
+      "down": {
+        "puzzleIndex": 50,
+        "hint": "'Woo Hoo!'",
+        "relatedSquares": [
+          159,
+          174,
+          189,
+          204,
+          219
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 160
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 220,
+      "across": {
+        "puzzleIndex": 66,
+        "hint": "The bull: Sp.",
+        "relatedSquares": [
+          219,
+          220,
+          221,
+          222,
+          223,
+          224
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": -1
+      },
+      "down": {
+        "puzzleIndex": 51,
+        "hint": "Mini shrimp",
+        "relatedSquares": [
+          160,
+          175,
+          190,
+          205,
+          220
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 167
+      },
+      "guess": "",
+      "answer": "L",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 221,
+      "across": {
+        "puzzleIndex": 66,
+        "hint": "The bull: Sp.",
+        "relatedSquares": [
+          219,
+          220,
+          221,
+          222,
+          223,
+          224
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": -1
+      },
+      "down": {
+        "puzzleIndex": 46,
+        "hint": "'Hope ya sleep well!'",
+        "relatedSquares": [
+          146,
+          161,
+          176,
+          191,
+          206,
+          221
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": 154
+      },
+      "guess": "",
+      "answer": "T",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 222,
+      "across": {
+        "puzzleIndex": 66,
+        "hint": "The bull: Sp.",
+        "relatedSquares": [
+          219,
+          220,
+          221,
+          222,
+          223,
+          224
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": -1
+      },
+      "down": {
+        "puzzleIndex": 59,
+        "hint": "One of three sci. subjects in high school",
+        "relatedSquares": [
+          192,
+          207,
+          222
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 193
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 223,
+      "across": {
+        "puzzleIndex": 66,
+        "hint": "The bull: Sp.",
+        "relatedSquares": [
+          219,
+          220,
+          221,
+          222,
+          223,
+          224
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": -1
+      },
+      "down": {
+        "puzzleIndex": 60,
+        "hint": "One single count of an 11th grader",
+        "relatedSquares": [
+          193,
+          208,
+          223
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 194
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 224,
+      "across": {
+        "puzzleIndex": 66,
+        "hint": "The bull: Sp.",
+        "relatedSquares": [
+          219,
+          220,
+          221,
+          222,
+          223,
+          224
+        ],
+        "isHead": false,
+        "answerLength": 6,
+        "nextClueSquareIndex": -1
+      },
+      "down": {
+        "puzzleIndex": 61,
+        "hint": "Robin the ___",
+        "relatedSquares": [
+          194,
+          209,
+          224
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": -1
+      },
+      "guess": "",
+      "answer": "O",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    }
+  ]
+}

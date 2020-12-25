@@ -1,0 +1,60 @@
+*:focus {
+    outline: 0;
+}
+
+.square {
+	border: 1px solid rgb(153, 153, 153);
+
+	margin: 0;
+	padding: 0;
+
+	height: 33px;
+	width: 33px;
+
+	position: flex;
+	text-align: center;
+	line-height: 33px;
+
+	font-family: arial, sans-serif;
+}
+
+.empty-square {
+	background-color: #ffffff;
+}
+
+.black-square {
+	background-color: #000000;
+}
+
+.puzzleIndex {
+	font-size: 10px;
+	text-align: left;
+	display: block;
+	line-height: 10px;
+}
+
+.guess {
+	font-size: 21px;
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 21px;
+
+	position: relative;
+	bottom: 10px;
+}
+
+.guess.pencil {
+	color: #959595;
+}
+
+.placeholder {
+	height: 10px;
+}
+
+.related {
+	background-color: #C7E8F3;
+}
+
+.related.selected {
+	background-color: #f5d442;
+}

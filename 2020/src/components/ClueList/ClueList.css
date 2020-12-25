@@ -1,0 +1,17 @@
+ol {
+	list-style: none;
+	overflow: auto;
+	padding: 0;
+	height: calc(100% - 30px);
+}
+
+h3 {
+	padding-left: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #e6e6e6;
+}
+
+.cluelist {
+	height: 100%;
+	width: 48%;
+}

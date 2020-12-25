@@ -1,0 +1,50 @@
+.header {
+	margin: auto;
+	max-width: 1132px;
+	padding: 0 5px;
+	display: block;
+}
+
+.header-wrapper {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 65px auto;
+}
+
+.header-details {
+	width: 60%;
+	padding-right: 22px;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	vertical-align: baseline;
+	align-items: baseline;
+}
+
+.header-title {
+	font-size: 2.625rem;
+	line-height: 3.4125rem;
+	font-family: 'Georgia', serif;
+	font-weight: 800;
+	margin-right: 16px;
+	display: inline-block;
+}
+
+.header-date {
+	font-size: 1.75rem;
+	line-height: 2.275rem;
+	display: inline-block;
+	vertical-align: baseline;
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+.header-author {
+	font-size: 15px;
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+.placeholder {
+	width: 40%;
+}
