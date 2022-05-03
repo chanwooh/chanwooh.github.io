@@ -10,9 +10,9 @@ class Puzzle extends React.Component {
   constructor(props) {
     super(props);
 
-    var crossword = require('./../../data/crossword.json');
+    var crossword = require('./../../data/mini_crossword.json');
     this.state = {
-      isAcross: true, 
+      isAcross: false, 
       isComplete: false,
       squares: crossword["squares"],
       currSquareIndex: 0,
@@ -42,7 +42,10 @@ class Puzzle extends React.Component {
 
   handleClick(squareIndex) {
 
-    var  updatedIsAcross = this.state.currSquareIndex == squareIndex ? !this.state.isAcross : this.state.isAcross;
+    var updatedIsAcross = this.state.currSquareIndex == squareIndex ? !this.state.isAcross : this.state.isAcross;
+    if (this.state.squares[squareIndex][updatedIsAcross ? "across" : "down"]["puzzleIndex"] == null) {
+      updatedIsAcross = !updatedIsAcross;
+    } 
     this.handleClueRowClick(squareIndex, updatedIsAcross ? "across" : "direction");
   }
 
@@ -51,7 +54,7 @@ class Puzzle extends React.Component {
     var keyCode = e.keyCode;
     if (this.state.isComplete){
 
-      // Do nothing
+      return;
 
     } else if (65 <= keyCode && keyCode <= 90) {
       /* Typed an alpha letter */

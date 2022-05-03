@@ -1,6 +1,6 @@
 import React from 'react';
-import court from './court_edited.png';
-import summerdrink from './summerdrink.mp3';
+// import court from './court_edited.png';
+import summerdrink from './nytcrosswordjingle.mp3';
 import './CongratsModal.css';
 
 class CongratsModal extends React.Component {
@@ -17,9 +17,8 @@ class CongratsModal extends React.Component {
           <span class="modal-body-close" tabindex="0" onClick={this.props.hideModal}>&times;</span>
           <div class="content">
             <h2 class="title">Congratulations!</h2>
-            <img className="congrats-court" src={court}/>
             <div class="center">
-              "Merry Christmas! Hope you enjoyed this crossword as much as I enjoyed spending time with you this year! Love you :)"
+              "Congratulations! You completed the Mini Jessie Crossword! Happy Birthday! So thankful to have you as a manager and to navigate all these fun healthcare complexities (and abbreviations) together!"
             </div>
           </div>
         </div>

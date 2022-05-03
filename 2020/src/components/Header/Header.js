@@ -6,10 +6,10 @@ function Header(props) {
     <header className="header">
     	<div className="header-wrapper">
         <div className="header-details">
-          <div className="header-title">The Crossword</div>
-          <div className="header-date">December 25, 2020</div>
+          <div className="header-title">The Mini Jessie</div>
+          <div className="header-date">February 24, 2022</div>
           <div className="header-author">
-            <span>By Charlie Hwang</span>
+            <span>By Kali De Cambra</span>
           </div>
         </div>
         <div className="placeholder"></div>

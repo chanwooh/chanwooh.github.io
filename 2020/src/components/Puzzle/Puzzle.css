@@ -23,5 +23,16 @@
 	max-width: 1132px;
 	margin: auto;
 	display: flex;
-	padding: 10px 0;
+	padding: 30px 0;
+}
+
+@media only screen and (max-width: 1200px) {
+	  .puzzle {
+		height: 100vh;
+		max-height: 660px;
+		min-width: 1132px;
+		margin: auto;
+		display: flex;
+		padding: 30px 0;
+	}
 }
