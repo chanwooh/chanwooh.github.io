@@ -1,12 +1,12 @@
 import React from 'react';
 // import court from './court_edited.png';
-import summerdrink from './nytcrosswordjingle.mp3';
+import jingle from './nytcrosswordjingle.mp3';
 import './CongratsModal.css';
 
 class CongratsModal extends React.Component {
   render() {
     var className = this.props.show ? "modal-wrapper show" : "modal-wrapper";
-    let audio = new Audio(summerdrink);
+    let audio = new Audio(jingle);
     if (this.props.show) {
       audio.play();
     }
@@ -18,7 +18,7 @@ class CongratsModal extends React.Component {
           <div class="content">
             <h2 class="title">Congratulations!</h2>
             <div class="center">
-              "Congratulations! You completed the Mini Jessie Crossword! Happy Birthday! So thankful to have you as a manager and to navigate all these fun healthcare complexities (and abbreviations) together!"
+              "Congratulations you solved puzzle! Cheers to many more years of solving things together 🙂"
             </div>
           </div>
         </div>
