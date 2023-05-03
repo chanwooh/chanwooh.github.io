@@ -33,6 +33,7 @@
       "answer": "S",
       "isSelected": true,
       "isRelated": true,
+      "isGray": true,
       "type": "EMPTY",
       "isPencil": false
     },
