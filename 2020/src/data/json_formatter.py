@@ -1,15 +1,66 @@
 import json
 
-with open('./crossword.json') as f:
-	data = json.load(f)
+def clearPuzzle():
+    with open('./khai_crossword.json') as f:
+        data = json.load(f)
 
-squares = data["squares"]
+    squares = data["squares"]
 
-for square in squares:
-	square["isPencil"] = False
+    for square in squares:
+        square["across"]["puzzleIndex"] = None
+        square["across"]["hint"] = ""
+        square["across"]["relatedSquares"] = []
+        square["across"]["isHead"] = False
+        square["across"]["answerLength"] = 0
+        square["across"]["nextClueSquareIndex"] = 0
 
-with open('crossword_parsed.json', 'w') as json_f:
-	json.dump(data, json_f)
+        square["down"]["puzzleIndex"] = None
+        square["down"]["hint"] = ""
+        square["down"]["relatedSquares"] = []
+        square["down"]["isHead"] = False
+        square["down"]["answerLength"] = 0
+        square["down"]["nextClueSquareIndex"] = 0
+
+        square["guess"] = ""
+        square["answer"] = ""
+        square["isSelected"] = False
+        square["isRelated"] = False
+        square["type"] = ""
+        square["isPencil"] = False
+
+    with open('crossword_parsed.json', 'w') as json_f:
+        json.dump(data, json_f)
+
+def makeUnfinishedSquaresEMPTY():
+    with open('./khai_crossword.json') as f:
+        data = json.load(f)
+
+    squares = data["squares"]
+
+    for square in squares:
+        if square["type"] == "":
+            square["type"] = "EMPTY"
+
+    with open('crossword_parsed.json', 'w') as json_f:
+        json.dump(data, json_f)
+
+def main():
+    makeUnfinishedSquaresEMPTY()
+
+if __name__ == "__main__":
+    main()
+
+
+# with open('./crossword.json') as f:
+# 	data = json.load(f)
+
+# squares = data["squares"]
+
+# for square in squares:
+# 	square["isPencil"] = False
+
+# with open('crossword_parsed.json', 'w') as json_f:
+# 	json.dump(data, json_f)
 
 
 # import json
