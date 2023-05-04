@@ -61,5 +61,13 @@
 }
 
 .gray {
-	background-color: #94979c;
+	background-color: #d2d4d9;
+}
+
+.related.selected.gray {
+	background-color: #f5d442;
+}
+
+.related.gray {
+	background-color: #b0cfd9;
 }

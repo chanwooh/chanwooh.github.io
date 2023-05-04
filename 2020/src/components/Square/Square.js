@@ -17,23 +17,11 @@ class Square extends React.Component {
       var squareClassName = "square empty-square";
       squareClassName += this.props.isRelated ? " related" : "";
       squareClassName += this.props.isSelected ? " selected" : "";
+      squareClassName += this.props.isGray ? " gray" : "";
 
       var guessClassName = this.props.isPencil ? "guess pencil" : "guess";
 
-      if (this.props.squareIndex === 0) {
-        console.log("first square");
-        return(
-          <div className={squareClassName} width="33" height="33" onClick={this.props.onClick} tabIndex="0" onKeyDown={this.props.onKeyDown}>
-            <span className="puzzleIndex">
-              {puzzleIndex == "" ? placeholder : puzzleIndex}
-            </span>
-            <span className={guessClassName} autoFocus>
-              {this.props.guess}
-            </span>
-          </div>
-        );
-      } else {
-        return(
+      return(
           <div className={squareClassName} width="33" height="33" onClick={this.props.onClick} tabIndex="0" onKeyDown={this.props.onKeyDown}>
             <span className="puzzleIndex">
               {puzzleIndex == "" ? placeholder : puzzleIndex}
@@ -43,8 +31,6 @@ class Square extends React.Component {
             </span>
           </div>
         );
-      }
-      
     } else {
       return(
           <div className="square black-square" width="33" height="33" tabIndex="-1"></div>

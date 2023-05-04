@@ -12,8 +12,9 @@ class Puzzle extends React.Component {
 
     var crossword = require('./../../data/khai_crossword.json');
     this.state = {
-      isAcross: true, 
+      isAcross: false, 
       isComplete: false,
+      isStarted: false,
       squares: crossword["squares"],
       currSquareIndex: 0,
       showModal: false
@@ -33,8 +34,14 @@ class Puzzle extends React.Component {
       square.isRelated = this.state.squares[squareIndex][isAcross ? "across" : "down"]["relatedSquares"].includes(index);
     }
 
+    if (!this.state.isStarted)
+    {
+      this.props.startTimer();
+    }
+
     this.setState({
       isAcross: isAcross,
+      isStarted: true,
       currSquareIndex: squareIndex,
       squares: updatedSquares
     });
@@ -148,9 +155,9 @@ class Puzzle extends React.Component {
     return (
       <div className="puzzle">
         <section className="cluebar-board">
-          <ClueBar direction={this.state.isAcross ? "A" : "D"}
-                   puzzleIndex={this.state.squares[this.state.currSquareIndex][this.state.isAcross ? "across" : "down"]["puzzleIndex"]}
-                   hint={this.state.squares[this.state.currSquareIndex][this.state.isAcross ? "across" : "down"]["hint"]} />
+          <ClueBar direction={this.state.isStarted ? (this.state.isAcross ? "A" : "D") : ""}
+                   puzzleIndex={this.state.isStarted ? this.state.squares[this.state.currSquareIndex][this.state.isAcross ? "across" : "down"]["puzzleIndex"] : ""}
+                   hint={this.state.isStarted ? this.state.squares[this.state.currSquareIndex][this.state.isAcross ? "across" : "down"]["hint"]: "Click on any cell to start!"} />
           <Board squares={this.state.squares} onClick={(i) => this.handleClick(i)} onKeyDown={(e, i) => this.handleKeyboardPress(e, i)} />
         </section>
         <section className="cluelists">

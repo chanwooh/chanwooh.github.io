@@ -11,8 +11,13 @@ class Layout extends React.Component {
         super(props);
         this.state = {
             isComplete: false,
+            isStarted: false,
             isPencil: false
         };
+    }
+
+    startTimer() {
+        this.setState({isStarted: true});
     }
 
     stopTimer() {
@@ -31,8 +36,8 @@ class Layout extends React.Component {
         return (
             <div className="layout">
                 <Header />
-                <ToolBar penIn={() => {this.penIn()}} pencilIn={() => {this.pencilIn()}} isComplete={this.state.isComplete} isPencil={this.state.isPencil}/>
-                <Puzzle stopTimer={() => {this.stopTimer()}} isPencil={this.state.isPencil}/>
+                <ToolBar penIn={() => {this.penIn()}} pencilIn={() => {this.pencilIn()}} isComplete={this.state.isComplete} isStarted={this.state.isStarted} isPencil={this.state.isPencil}/>
+                <Puzzle startTimer={() => {this.startTimer()}} stopTimer={() => {this.stopTimer()}} isPencil={this.state.isPencil}/>
             </div>
         );
     }

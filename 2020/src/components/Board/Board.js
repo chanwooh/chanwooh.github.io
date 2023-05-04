@@ -16,6 +16,7 @@ class Board extends React.Component {
                     answer={square.answer}
                     isSelected={square.isSelected}
                     isRelated={square.isRelated}
+                    isGray={square.isGray}
                     isPencil={square.isPencil}
                     type={square.type}
                     onClick={() => this.props.onClick(square.squareIndex)}

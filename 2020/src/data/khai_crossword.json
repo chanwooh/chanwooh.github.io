@@ -37,7 +37,6 @@
             "answer": "L",
             "isSelected": false,
             "isRelated": false,
-            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -225,6 +224,7 @@
             "answer": "G",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -265,6 +265,7 @@
             "answer": "R",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -305,6 +306,7 @@
             "answer": "A",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -343,6 +345,7 @@
             "answer": "Y",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -800,6 +803,7 @@
             "answer": "E",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -1375,6 +1379,7 @@
             "answer": "N",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -1983,6 +1988,7 @@
             "answer": "T",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -2550,6 +2556,7 @@
             "answer": "L",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -3133,6 +3140,7 @@
             "answer": "E",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -5607,6 +5615,7 @@
             "answer": "S",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -5647,6 +5656,7 @@
             "answer": "M",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -5689,6 +5699,7 @@
             "answer": "I",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -5731,6 +5742,7 @@
             "answer": "L",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -5773,6 +5785,7 @@
             "answer": "E",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -5815,6 +5828,7 @@
             "answer": "D",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -6383,6 +6397,7 @@
             "answer": "P",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -6692,6 +6707,7 @@
             "answer": "L",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -6736,6 +6752,7 @@
             "answer": "I",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -6777,6 +6794,7 @@
             "answer": "G",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -6819,6 +6837,7 @@
             "answer": "H",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -6861,6 +6880,7 @@
             "answer": "T",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -6903,6 +6923,7 @@
             "answer": "B",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -6945,6 +6966,7 @@
             "answer": "E",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -6985,6 +7007,7 @@
             "answer": "L",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -7025,6 +7048,7 @@
             "answer": "I",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -7065,6 +7089,7 @@
             "answer": "S",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -7105,6 +7130,7 @@
             "answer": "T",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -7147,6 +7173,7 @@
             "answer": "S",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -7558,6 +7585,7 @@
             "answer": "A",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -8131,6 +8159,7 @@
             "answer": "Y",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
