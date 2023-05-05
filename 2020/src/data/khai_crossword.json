@@ -6138,7 +6138,7 @@
             "down":
             {
                 "puzzleIndex": 49,
-                "hint": "The school and degree a top lawyer might have",
+                "hint": "The school and degree a top lawyer might have (abbrv)",
                 "relatedSquares":
                 [
                     158,
@@ -6381,7 +6381,7 @@
             "down":
             {
                 "puzzleIndex": 50,
-                "hint": "With 59 across, where you might find 5-down, 46-across, and 5-across",
+                "hint": "With 59 across, where you might find 5-down, 46-across, 54-across, and 5-across",
                 "relatedSquares":
                 [
                     165,
@@ -6672,7 +6672,7 @@
             "across":
             {
                 "puzzleIndex": 54,
-                "hint": ". Lizzie says to just let ___ ___ light",
+                "hint": "Lizzie says to just let ___ ___ light",
                 "relatedSquares":
                 [
                     173,
@@ -6690,7 +6690,7 @@
             "down":
             {
                 "puzzleIndex": 49,
-                "hint": "The school and degree a top lawyer might have",
+                "hint": "The school and degree a top lawyer might have (abbrv)",
                 "relatedSquares":
                 [
                     158,
@@ -6716,7 +6716,7 @@
             "across":
             {
                 "puzzleIndex": 54,
-                "hint": ". Lizzie says to just let ___ ___ light",
+                "hint": "Lizzie says to just let ___ ___ light",
                 "relatedSquares":
                 [
                     173,
@@ -6761,7 +6761,7 @@
             "across":
             {
                 "puzzleIndex": 54,
-                "hint": ". Lizzie says to just let ___ ___ light",
+                "hint": "Lizzie says to just let ___ ___ light",
                 "relatedSquares":
                 [
                     173,
@@ -6803,7 +6803,7 @@
             "across":
             {
                 "puzzleIndex": 54,
-                "hint": ". Lizzie says to just let ___ ___ light",
+                "hint": "Lizzie says to just let ___ ___ light",
                 "relatedSquares":
                 [
                     173,
@@ -6846,7 +6846,7 @@
             "across":
             {
                 "puzzleIndex": 54,
-                "hint": ". Lizzie says to just let ___ ___ light",
+                "hint": "Lizzie says to just let ___ ___ light",
                 "relatedSquares":
                 [
                     173,
@@ -6889,7 +6889,7 @@
             "across":
             {
                 "puzzleIndex": 54,
-                "hint": ". Lizzie says to just let ___ ___ light",
+                "hint": "Lizzie says to just let ___ ___ light",
                 "relatedSquares":
                 [
                     173,
@@ -6932,7 +6932,7 @@
             "across":
             {
                 "puzzleIndex": 54,
-                "hint": ". Lizzie says to just let ___ ___ light",
+                "hint": "Lizzie says to just let ___ ___ light",
                 "relatedSquares":
                 [
                     173,
@@ -6991,7 +6991,7 @@
             "down":
             {
                 "puzzleIndex": 50,
-                "hint": "With 59 across, where you might find 5-down, 46-across, and 5-across",
+                "hint": "With 59 across, where you might find 5-down, 46-across, 54-across, and 5-across",
                 "relatedSquares":
                 [
                     165,
@@ -7302,7 +7302,7 @@
             "down":
             {
                 "puzzleIndex": 49,
-                "hint": "The school and degree a top lawyer might have",
+                "hint": "The school and degree a top lawyer might have (abbrv)",
                 "relatedSquares":
                 [
                     158,
@@ -7545,6 +7545,7 @@
             "answer": "A",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -7569,7 +7570,7 @@
             "down":
             {
                 "puzzleIndex": 50,
-                "hint": "With 59 across, where you might find 5-down, 46-across, and 5-across",
+                "hint": "With 59 across, where you might find 5-down, 46-across, 54-across, and 5-across",
                 "relatedSquares":
                 [
                     165,
@@ -7876,7 +7877,7 @@
             "down":
             {
                 "puzzleIndex": 49,
-                "hint": "The school and degree a top lawyer might have",
+                "hint": "The school and degree a top lawyer might have (abbrv)",
                 "relatedSquares":
                 [
                     158,
@@ -8119,6 +8120,7 @@
             "answer": "S",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         },
@@ -8143,7 +8145,7 @@
             "down":
             {
                 "puzzleIndex": 50,
-                "hint": "With 59 across, where you might find 5-down, 46-across, and 5-across",
+                "hint": "With 59 across, where you might find 5-down, 46-across, 54-across, and 5-across",
                 "relatedSquares":
                 [
                     165,
@@ -8450,7 +8452,7 @@
             "down":
             {
                 "puzzleIndex": 49,
-                "hint": "The school and degree a top lawyer might have",
+                "hint": "The school and degree a top lawyer might have (abbrv)",
                 "relatedSquares":
                 [
                     158,
@@ -8693,6 +8695,7 @@
             "answer": "Y",
             "isSelected": false,
             "isRelated": false,
+            "isGray": true,
             "type": "EMPTY",
             "isPencil": false
         }
