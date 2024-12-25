@@ -1,0 +1,50 @@
+ul {
+	list-style: none;
+}
+
+button {
+	border: none;
+	background-color: #fff;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #e6e6e6;
+}
+
+i {
+	padding: 15px;
+}
+
+.toolbar-wrapper {
+	background-color: #fff;
+	border: 1px solid #e6e6e6;
+	border-width: 1px 0;
+	width: 100%;
+}
+
+.toolbar-tools {
+	align-items: center;
+	justify-content: space-between;
+	display: flex;
+	margin: auto;
+	max-width: 1605px;
+	vertical-align: baseline;
+}
+
+.toolbar-timer {
+	display: flex;
+	flex-grow: 1;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+.timer {
+	padding: 0px 15px;
+}
+
+button.active {
+	background-color: #C7E8F3;
+}

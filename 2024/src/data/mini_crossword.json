@@ -1,0 +1,800 @@
+{
+  "squares": [
+    {
+      "squareIndex": 0,
+      "across": {
+        "puzzleIndex": 1,
+        "hint": "\"Building the _____ while flying it\"",
+        "relatedSquares": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 5
+      },
+      "down": {
+        "puzzleIndex": 1,
+        "hint": "Television program distributor",
+        "relatedSquares": [
+          0,
+          5,
+          10
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 1
+      },
+      "guess": "",
+      "answer": "P",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 1,
+      "across": {
+        "puzzleIndex": 1,
+        "hint": "\"Building the _____ while flying it\"",
+        "relatedSquares": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 5
+      },
+      "down": {
+        "puzzleIndex": 2,
+        "hint": "Current partner that offers online MLS",
+        "relatedSquares": [
+          1,
+          6,
+          11,
+          16
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 2
+      },
+      "guess": "",
+      "answer": "L",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 2,
+      "across": {
+        "puzzleIndex": 1,
+        "hint": "\"Building the _____ while flying it\"",
+        "relatedSquares": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 5
+      },
+      "down": {
+        "puzzleIndex": 3,
+        "hint": "Biotechnology company",
+        "relatedSquares": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 3
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 3,
+      "across": {
+        "puzzleIndex": 1,
+        "hint": "\"Building the _____ while flying it\"",
+        "relatedSquares": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 5
+      },
+      "down": {
+        "puzzleIndex": 4,
+        "hint": "Provider of the CCMA certification",
+        "relatedSquares": [
+          3,
+          8,
+          13
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": 14
+      },
+      "guess": "",
+      "answer": "N",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 4,
+      "across": {
+        "puzzleIndex": 1,
+        "hint": "\"Building the _____ while flying it\"",
+        "relatedSquares": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 5
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 5,
+      "across": {
+        "puzzleIndex": 5,
+        "hint": "Our first Healthcare Employer Partner",
+        "relatedSquares": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "isHead": true,
+        "answerLength": 4,
+        "nextClueSquareIndex": 10
+      },
+      "down": {
+        "puzzleIndex": 1,
+        "hint": "Television program distributor",
+        "relatedSquares": [
+          0,
+          5,
+          10
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 1
+      },
+      "guess": "",
+      "answer": "B",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 6,
+      "across": {
+        "puzzleIndex": 5,
+        "hint": "Our first Healthcare Employer Partner",
+        "relatedSquares": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 10
+      },
+      "down": {
+        "puzzleIndex": 2,
+        "hint": "Current partner that offers online MLS",
+        "relatedSquares": [
+          1,
+          6,
+          11,
+          16
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 2
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 7,
+      "across": {
+        "puzzleIndex": 5,
+        "hint": "Our first Healthcare Employer Partner",
+        "relatedSquares": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 10
+      },
+      "down": {
+        "puzzleIndex": 3,
+        "hint": "Biotechnology company",
+        "relatedSquares": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 3
+      },
+      "guess": "",
+      "answer": "M",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 8,
+      "across": {
+        "puzzleIndex": 5,
+        "hint": "Our first Healthcare Employer Partner",
+        "relatedSquares": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 10
+      },
+      "down": {
+        "puzzleIndex": 4,
+        "hint": "Provider of the CCMA certification",
+        "relatedSquares": [
+          3,
+          8,
+          13
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 14
+      },
+      "guess": "",
+      "answer": "H",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 9,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 10,
+      "across": {
+        "puzzleIndex": 6,
+        "hint": "Hyperglycemia or high blood _____",
+        "relatedSquares": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "isHead": true,
+        "answerLength": 5,
+        "nextClueSquareIndex": 16
+      },
+      "down": {
+        "puzzleIndex": 1,
+        "hint": "Television program distributor",
+        "relatedSquares": [
+          0,
+          5,
+          10
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 1
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 11,
+      "across": {
+        "puzzleIndex": 6,
+        "hint": "Hyperglycemia or high blood _____",
+        "relatedSquares": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 16
+      },
+      "down": {
+        "puzzleIndex": 2,
+        "hint": "Current partner that offers online MLS",
+        "relatedSquares": [
+          1,
+          6,
+          11,
+          16
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 2
+      },
+      "guess": "",
+      "answer": "U",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 12,
+      "across": {
+        "puzzleIndex": 6,
+        "hint": "Hyperglycemia or high blood _____",
+        "relatedSquares": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 16
+      },
+      "down": {
+        "puzzleIndex": 3,
+        "hint": "Biotechnology company",
+        "relatedSquares": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 4
+      },
+      "guess": "",
+      "answer": "G",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 13,
+      "across": {
+        "puzzleIndex": 6,
+        "hint": "Hyperglycemia or high blood _____",
+        "relatedSquares": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 16
+      },
+      "down": {
+        "puzzleIndex": 4,
+        "hint": "Provider of the CCMA certification",
+        "relatedSquares": [
+          3,
+          8,
+          13
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": 14
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 14,
+      "across": {
+        "puzzleIndex": 6,
+        "hint": "Hyperglycemia or high blood _____",
+        "relatedSquares": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 16
+      },
+      "down": {
+        "puzzleIndex": 9,
+        "hint": "Pretty much every hospital needs more of these",
+        "relatedSquares": [
+          14,
+          19,
+          24
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": -1
+      },
+      "guess": "",
+      "answer": "R",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 15,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 16,
+      "across": {
+        "puzzleIndex": 7,
+        "hint": "Kenneth or Monika",
+        "relatedSquares": [
+          16,
+          17
+        ],
+        "isHead": true,
+        "answerLength": 2,
+        "nextClueSquareIndex": 22
+      },
+      "down": {
+        "puzzleIndex": 2,
+        "hint": "Current partner that offers online MLS",
+        "relatedSquares": [
+          1,
+          6,
+          11,
+          16
+        ],
+        "isHead": false,
+        "answerLength": 4,
+        "nextClueSquareIndex": 2
+      },
+      "guess": "",
+      "answer": "A",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 17,
+      "across": {
+        "puzzleIndex": 7,
+        "hint": "Kenneth or Monika",
+        "relatedSquares": [
+          16,
+          17
+        ],
+        "isHead": false,
+        "answerLength": 2,
+        "nextClueSquareIndex": 22
+      },
+      "down": {
+        "puzzleIndex": 3,
+        "hint": "Biotechnology company ",
+        "relatedSquares": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 3
+      },
+      "guess": "",
+      "answer": "E",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 18,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 19,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": 9,
+        "hint": "Pretty much every hospital needs more of these",
+        "relatedSquares": [
+          14,
+          19,
+          24
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": -1
+      },
+      "guess": "",
+      "answer": "N",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 20,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 21,
+      "across": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "BLOCK",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 22,
+      "across": {
+        "puzzleIndex": 8,
+        "hint": "(Abbrv.) Highly demanded roles that require an MSN",
+        "relatedSquares": [
+          22,
+          23,
+          24
+        ],
+        "isHead": true,
+        "answerLength": 3,
+        "nextClueSquareIndex": -1
+      },
+      "down": {
+        "puzzleIndex": 3,
+        "hint": "Biotechnology company",
+        "relatedSquares": [
+          2,
+          7,
+          12,
+          17,
+          22
+        ],
+        "isHead": false,
+        "answerLength": 5,
+        "nextClueSquareIndex": 3
+      },
+      "guess": "",
+      "answer": "N",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 23,
+      "across": {
+        "puzzleIndex": 8,
+        "hint": "(Abbrv.) Highly demanded roles that require an MSN",
+        "relatedSquares": [
+          22,
+          23,
+          24
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": -1
+      },
+      "down": {
+        "puzzleIndex": null,
+        "hint": "",
+        "relatedSquares": [],
+        "isHead": false,
+        "answerLength": 0
+      },
+      "guess": "",
+      "answer": "P",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    },
+    {
+      "squareIndex": 24,
+      "across": {
+        "puzzleIndex": 8,
+        "hint": "(Abbrv.) Highly demanded roles that require an MSN",
+        "relatedSquares": [
+          22,
+          23,
+          24
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": -1
+      },
+      "down": {
+        "puzzleIndex": 9,
+        "hint": "Pretty much every hospital needs more of these",
+        "relatedSquares": [
+          14,
+          19,
+          24
+        ],
+        "isHead": false,
+        "answerLength": 3,
+        "nextClueSquareIndex": -1
+      },
+      "guess": "",
+      "answer": "S",
+      "isSelected": false,
+      "isRelated": false,
+      "type": "EMPTY",
+      "isPencil": false
+    }
+  ]
+}

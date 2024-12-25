@@ -1,0 +1,15 @@
+.board {
+	height: 499px;
+	width: 499px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-content: flex-start;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.svg-board {
+	display: block;
+	height: 100%;
+	width: 100%;
+}

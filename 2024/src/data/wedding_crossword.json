@@ -1,0 +1,4928 @@
+{
+    "squares":
+    [
+        {
+            "squareIndex": 0,
+            "across":
+            {
+                "puzzleIndex": 1,
+                "hint": "Mean, abbreviated",
+                "relatedSquares":
+                [
+                    0, 1, 2
+                ],
+                "isHead": true,
+                "answerLength": 3,
+                "nextClueSquareIndex": 4
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "A",
+            "isSelected": true,
+            "isRelated": true,
+            "type": "EMPTY",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 1,
+            "across":
+            {
+                "puzzleIndex": 1,
+                "hint": "Mean, abbreviated",
+                "relatedSquares":
+                [
+                    0, 1, 2
+                ],
+                "isHead": false,
+                "answerLength": 3,
+                "nextClueSquareIndex": 4
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "V",
+            "isSelected": false,
+            "isRelated": true,
+            "type": "EMPTY",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 2,
+            "across":
+            {
+                "puzzleIndex": 1,
+                "hint": "Mean, abbreviated",
+                "relatedSquares":
+                [
+                    0, 1, 2
+                ],
+                "isHead": false,
+                "answerLength": 3,
+                "nextClueSquareIndex": 4
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "G",
+            "isSelected": false,
+            "isRelated": true,
+            "type": "EMPTY",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 3,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "BLOCK",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 4,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 5,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 6,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 7,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 8,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 9,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 10,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 11,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 12,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 13,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 14,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 15,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 16,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 17,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 18,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 19,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 20,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 21,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 22,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 23,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 24,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 25,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 26,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 27,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 28,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 29,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 30,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 31,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 32,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 33,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 34,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 35,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 36,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 37,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 38,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 39,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 40,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 41,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 42,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 43,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 44,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 45,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 46,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 47,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 48,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 49,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 50,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 51,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 52,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 53,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 54,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 55,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 56,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 57,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 58,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 59,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 60,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 61,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 62,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 63,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 64,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 65,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 66,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 67,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 68,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 69,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 70,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 71,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 72,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 73,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 74,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 75,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 76,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 77,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 78,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 79,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 80,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 81,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 82,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 83,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 84,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 85,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 86,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 87,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 88,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 89,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 90,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 91,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 92,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 93,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 94,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 95,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 96,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 97,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 98,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 99,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 100,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 101,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 102,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 103,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 104,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 105,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 106,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 107,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 108,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 109,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 110,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 111,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 112,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 113,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 114,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 115,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 116,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 117,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 118,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 119,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 120,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 121,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 122,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 123,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 124,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 125,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 126,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 127,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 128,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 129,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 130,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 131,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 132,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 133,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 134,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 135,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 136,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 137,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 138,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 139,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 140,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 141,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 142,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 143,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 144,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 145,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 146,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 147,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 148,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 149,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 150,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 151,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 152,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 153,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 154,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 155,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 156,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 157,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 158,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 159,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 160,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 161,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 162,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 163,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 164,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 165,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "isGray": true,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 166,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 167,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        },
+        {
+            "squareIndex": 168,
+            "across":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "down":
+            {
+                "puzzleIndex": null,
+                "hint": "",
+                "relatedSquares":
+                [],
+                "isHead": false,
+                "answerLength": 0,
+                "nextClueSquareIndex": 0
+            },
+            "guess": "",
+            "answer": "",
+            "isSelected": false,
+            "isRelated": false,
+            "type": "",
+            "isPencil": false
+        }
+    ]
+}

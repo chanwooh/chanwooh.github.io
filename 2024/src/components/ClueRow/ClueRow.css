@@ -1,0 +1,19 @@
+.cluerow {
+	padding: 5px 5px;
+	text-align: left;
+	line-height: 1.2;
+	display: flex;
+	align-items: stretch;
+	font: 15px 'Libre Franklin', sans-serif;
+}
+
+.isSelected {
+	background-color: #C7E8F3;
+}
+
+.index {
+	margin-right: 10px;
+	text-align: right;
+	width: 24px;
+	min-width: 24px;
+}
