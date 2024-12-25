@@ -1,6 +1,6 @@
 .board {
-	height: 499px;
-	width: 499px;
+	height: 498px;
+	width: 498px;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;

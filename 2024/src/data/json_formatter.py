@@ -102,7 +102,7 @@ def fillOutRelatedDownSquares(filepath):
 
 def main():
     # 1. Run clearPuzzle
-    clearPuzzle("/Users/charliehwang/Desktop/chanwooh.github.io/2024/src/data/wedding_crossword.json")
+    # clearPuzzle(./khai_crossword.json)
 
     # MANUAL:
     # 2. Fill out answer and type for all cells
@@ -110,10 +110,10 @@ def main():
     # 4. Fill out vertical heads only (puzzleIndex, hint, answerLength only)
 
     # 5. Run fillOutRelatedDownSquares
-    # fillOutRelatedDownSquares(./khai_crossword.json)
+    # fillOutRelatedDownSquares('./wedding_crossword.json')
 
     # 6. Run fillOutDownNexClueSquareIndices
-    # fillOutDownNextClueSquareIndices('./khai_crossword.json')
+    # fillOutDownNextClueSquareIndices('./wedding_crossword.json')
 
 if __name__ == "__main__":
     main()

@@ -8,12 +8,12 @@
 	margin: 0;
 	padding: 0;
 
-	height: 33px;
-	width: 33px;
+	height: 38px;
+	width: 38px;
 
 	position: flex;
 	text-align: center;
-	line-height: 33px;
+	line-height: 38px;
 
 	font-family: arial, sans-serif;
 }
@@ -35,10 +35,10 @@
 }
 
 .guess {
-	font-size: 21px;
+	font-size: 23px;
 	display: inline-block;
 	vertical-align: middle;
-	line-height: 21px;
+	line-height: 23px;
 
 	position: relative;
 	bottom: 10px;

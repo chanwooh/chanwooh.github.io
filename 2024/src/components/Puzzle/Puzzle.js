@@ -10,7 +10,7 @@ class Puzzle extends React.Component {
   constructor(props) {
     super(props);
 
-    var crossword = require('./../../data/khai_crossword.json');
+    var crossword = require('./../../data/wedding_crossword.json');
     this.state = {
       isAcross: false, 
       isComplete: false,

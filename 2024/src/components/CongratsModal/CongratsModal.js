@@ -18,7 +18,7 @@ class CongratsModal extends React.Component {
           <div class="content">
             <h2 class="title">Congratulations!</h2>
             <div class="center">
-              "Congratulations you solved puzzle! Cheers to many more years of solving things together 🙂"
+              "Please take a screenshot of your solve time and upload here: https://drive.google.com/drive/folders/1QkkGVPFrqXNKFxdNA0OiYLiEw_ttlbyk?usp=sharing. Thank you so much for coming to our wedding 😊"
             </div>
           </div>
         </div>
