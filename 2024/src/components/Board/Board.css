@@ -1,6 +1,6 @@
 .board {
-	height: 498px;
-	width: 498px;
+	aspect-ratio: 1 / 1;
+	width: 100%;
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;

@@ -35,7 +35,7 @@ class Layout extends React.Component {
     render() {
         return (
             <div className="layout">
-                <Header />
+                {/* <Header /> */}
                 <ToolBar penIn={() => {this.penIn()}} pencilIn={() => {this.pencilIn()}} isComplete={this.state.isComplete} isStarted={this.state.isStarted} isPencil={this.state.isPencil}/>
                 <Puzzle startTimer={() => {this.startTimer()}} stopTimer={() => {this.stopTimer()}} isPencil={this.state.isPencil}/>
             </div>

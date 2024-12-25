@@ -2,14 +2,18 @@
 	box-sizing: border-box;
 }
 
+.cluebar-board > * {
+    margin: 20px 0;
+}
+
 .cluebar-board {
 	height: 100%;
-	width: 45%;
+	min-width: 50%;
 }
 
 .cluelists {
 	height: 100%;
-	width: 55%;
+	width: 100%;
 
 	display: flex;
 	flex-direction: row;
@@ -19,14 +23,12 @@
 
 .puzzle {
 	height: 100vh;
-	max-height: 660px;
-	max-width: 1132px;
 	margin: auto;
 	display: flex;
 	padding: 10px 0;
 }
 
-@media only screen and (max-width: 1200px) {
+/* @media only screen and (max-width: 1200px) {
 	  .puzzle {
 		height: 100vh;
 		max-height: 660px;
@@ -47,4 +49,4 @@
 
 		margin-left: 20px;
 	}
-}
+} */

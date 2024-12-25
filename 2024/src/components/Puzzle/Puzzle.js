@@ -155,20 +155,10 @@ class Puzzle extends React.Component {
     return (
       <div className="puzzle">
         <section className="cluebar-board">
+          <Board squares={this.state.squares} onClick={(i) => this.handleClick(i)} onKeyDown={(e, i) => this.handleKeyboardPress(e, i)} />
           <ClueBar direction={this.state.isStarted ? (this.state.isAcross ? "A" : "D") : ""}
                    puzzleIndex={this.state.isStarted ? this.state.squares[this.state.currSquareIndex][this.state.isAcross ? "across" : "down"]["puzzleIndex"] : ""}
                    hint={this.state.isStarted ? this.state.squares[this.state.currSquareIndex][this.state.isAcross ? "across" : "down"]["hint"]: "Click on any cell to start!"} />
-          <Board squares={this.state.squares} onClick={(i) => this.handleClick(i)} onKeyDown={(e, i) => this.handleKeyboardPress(e, i)} />
-        </section>
-        <section className="cluelists">
-          <ClueList direction="across" 
-                    currentDirection={this.state.isAcross ? "across" : "down"} 
-                    squares={this.state.squares} 
-                    onClick={(i, d) => this.handleClueRowClick(i, d)} />
-          <ClueList direction="down" 
-                    currentDirection={this.state.isAcross ? "across" : "down"} 
-                    squares={this.state.squares} 
-                    onClick={(i, d) => this.handleClueRowClick(i, d)} />
         </section>
         <CongratsModal show={this.state.showModal} hideModal={() => this.hideModal()}/>
       </div>
