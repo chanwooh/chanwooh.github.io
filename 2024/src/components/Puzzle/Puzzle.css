@@ -22,10 +22,20 @@
 }
 
 .puzzle {
-	height: 100vh;
+	/* height: 100vh; */
 	margin: auto;
 	display: flex;
 	padding: 10px 0;
+}
+
+.simple-keyboard .hg-row:nth-child(2) {
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+.simple-keyboard .hg-row:nth-child(3) {
+	padding-left: 14%;
+	padding-right: 2%;
 }
 
 /* @media only screen and (max-width: 1200px) {

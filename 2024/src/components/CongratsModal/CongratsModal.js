@@ -12,12 +12,12 @@ class CongratsModal extends React.Component {
     }
 
     return (
-      <div class={className}>
-        <div class="modal-body">
-          <span class="modal-body-close" tabindex="0" onClick={this.props.hideModal}>&times;</span>
-          <div class="content">
-            <h2 class="title">Congratulations!</h2>
-            <div class="center">
+      <div className={className}>
+        <div className="modal-body">
+          <span className="modal-body-close" tabIndex="0" onClick={this.props.hideModal}>&times;</span>
+          <div className="content">
+            <h2 className="title">Congratulations!</h2>
+            <div className="center">
               "Please take a screenshot of your solve time and upload here: https://drive.google.com/drive/folders/1QkkGVPFrqXNKFxdNA0OiYLiEw_ttlbyk?usp=sharing. Thank you so much for coming to our wedding 😊"
             </div>
           </div>

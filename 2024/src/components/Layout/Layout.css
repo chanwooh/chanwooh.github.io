@@ -8,6 +8,6 @@
 {
     max-width: 360px;
     min-width: 360px;
-    min-height: 100vh;
-    max-height: 100vh;
+    min-height: 85vh;
+    max-height: 85vh;
 }

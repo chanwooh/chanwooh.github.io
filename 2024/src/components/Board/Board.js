@@ -20,7 +20,7 @@ class Board extends React.Component {
                     isPencil={square.isPencil}
                     type={square.type}
                     onClick={() => this.props.onClick(square.squareIndex)}
-                    onKeyDown={(e) => this.props.onKeyDown(e, square.squareIndex)}
+                    onKeyDown={(e) => this.props.onKeyDown(e)}
             />
           ))
         }
