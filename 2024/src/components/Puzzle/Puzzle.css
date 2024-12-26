@@ -8,7 +8,7 @@
 
 .cluebar-board {
 	height: 100%;
-	min-width: 50%;
+	width: 100%;
 }
 
 .cluelists {
@@ -22,7 +22,6 @@
 }
 
 .puzzle {
-	/* height: 100vh; */
 	margin: auto;
 	display: flex;
 	padding: 10px 0;
