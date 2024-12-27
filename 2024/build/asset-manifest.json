@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.667e2816.css",
-    "main.js": "/static/js/main.63d47f60.js",
+    "main.js": "/static/js/main.b3ad94ff.js",
     "static/media/nytcrosswordjingle.mp3": "/static/media/nytcrosswordjingle.c6618320b2c7b7300b8d.mp3",
     "index.html": "/index.html",
     "main.667e2816.css.map": "/static/css/main.667e2816.css.map",
-    "main.63d47f60.js.map": "/static/js/main.63d47f60.js.map"
+    "main.b3ad94ff.js.map": "/static/js/main.b3ad94ff.js.map"
   },
   "entrypoints": [
     "static/css/main.667e2816.css",
-    "static/js/main.63d47f60.js"
+    "static/js/main.b3ad94ff.js"
   ]
 }

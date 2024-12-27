@@ -100,6 +100,37 @@ def fillOutRelatedDownSquares(filepath):
     with open('crossword_parsed.json', 'w') as json_f:
       json.dump(data, json_f)
 
+def fillOutPreviousClueIndices(filepath):
+    with open(filepath) as f:
+      data = json.load(f)
+
+    squares = data["squares"]
+    for direction in ["across", "down"]:
+
+        currSquareIndex = 0
+        shouldContinue = True
+
+        while shouldContinue:
+            # Next index to fill out is current square's next clue
+            nextSquareIndex = squares[currSquareIndex][direction]["nextClueSquareIndex"]
+
+            # If the next square we need to go to is -1 we are on our last square to fill out
+            # TODO: Need to fix this to properly mark the previous square, currently across and down are swapped
+            if nextSquareIndex == -1:
+                nextSquareIndex = 0
+                currSquareIndex = currSquareIndex * -1
+                shouldContinue = False
+            
+            # Get next clue's related clues, mark all of their previous clue index to our current clue index
+            for relatedIdx in squares[nextSquareIndex][direction]["relatedSquares"]:
+                squares[relatedIdx][direction]["previousClueSquareIndex"] = currSquareIndex
+            
+            # Iterate current to next square index
+            currSquareIndex = nextSquareIndex
+
+    with open('crossword_parsed.json', 'w') as json_f:
+      json.dump(data, json_f)
+
 def main():
     # 1. Run clearPuzzle
     # clearPuzzle(./khai_crossword.json)
@@ -114,6 +145,11 @@ def main():
 
     # 6. Run fillOutDownNexClueSquareIndices
     # fillOutDownNextClueSquareIndices('./wedding_crossword.json')
+
+    # 7. Run fillOutPreviousClueIndices
+    fillOutPreviousClueIndices("./wedding_crossword.json")
+    
+    # 8. Fix first across/down's previous squares by swapping them
 
 if __name__ == "__main__":
     main()

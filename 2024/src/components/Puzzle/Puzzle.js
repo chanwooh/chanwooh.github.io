@@ -14,7 +14,7 @@ class Puzzle extends React.Component {
 
     var crossword = require('./../../data/wedding_crossword.json');
     this.state = {
-      isAcross: false, 
+      isAcross: true, 
       isComplete: false,
       isStarted: false,
       squares: crossword["squares"],
@@ -39,14 +39,21 @@ class Puzzle extends React.Component {
     if (!this.state.isStarted)
     {
       this.props.startTimer();
+      this.setState({
+        isAcross: true,
+        isStarted: true,
+        currSquareIndex: squareIndex,
+        squares: updatedSquares
+      });
+    } else {
+      this.setState({
+        isAcross: isAcross,
+        currSquareIndex: squareIndex,
+        squares: updatedSquares
+      });
     }
 
-    this.setState({
-      isAcross: isAcross,
-      isStarted: true,
-      currSquareIndex: squareIndex,
-      squares: updatedSquares
-    });
+      
   }
 
   handleClick(squareIndex) {
@@ -58,7 +65,7 @@ class Puzzle extends React.Component {
     this.handleClueRowClick(squareIndex, updatedIsAcross ? "across" : "direction");
   }
 
-  handleKeyboardPress(keyCode) {    
+  handleKeyboardPress(keyCode, shifted = false) {    
     if (this.state.isComplete || keyCode === NaN){
 
       return;
@@ -94,6 +101,15 @@ class Puzzle extends React.Component {
       this.setState({
         squares: updatedSquares
       });
+
+    } else if (shifted && keyCode == 9 || keyCode == 126) {
+      /* Shift + Tab typed, or left caret clicked */
+
+      var previousSquareIndex = this.state.squares[this.state.currSquareIndex][this.state.isAcross ? "across" : "down"]["previousClueSquareIndex"];
+
+      this.setState({
+        currSquareIndex: previousSquareIndex < 0 ? previousSquareIndex * -1 : this.state.currSquareIndex
+      }, () => this.handleClick(previousSquareIndex < 0 ? previousSquareIndex * -1 : previousSquareIndex));
 
     } else if (keyCode == 13 || keyCode == 9) {
       /* Typed an "Enter" or "Tab" */
@@ -166,12 +182,12 @@ class Puzzle extends React.Component {
     return (
       <div className="puzzle">
         <section className="cluebar-board">
-          <Board squares={this.state.squares} onClick={(i) => this.handleClick(i)} onKeyDown={(e) => this.handleKeyboardPress(e.keyCode)} />
+          <Board squares={this.state.squares} onClick={(i) => this.handleClick(i)} onKeyDown={(e) => this.handleKeyboardPress(e.keyCode, e.shifted)} />
           <ClueBar direction={this.state.isStarted ? (this.state.isAcross ? "A" : "D") : ""}
                    puzzleIndex={this.state.isStarted ? this.state.squares[this.state.currSquareIndex][this.state.isAcross ? "across" : "down"]["puzzleIndex"] : ""}
                    hint={this.state.isStarted ? this.state.squares[this.state.currSquareIndex][this.state.isAcross ? "across" : "down"]["hint"]: "Click on any cell to start!"} 
                    onClueBarClick={() => this.handleClick(this.state.currSquareIndex)}
-                   onLeftClick={() => this.handleKeyboardPress('\t'.charCodeAt(0))}
+                   onLeftClick={() => this.handleKeyboardPress('~'.charCodeAt(0))}
                    onRightClick={() => this.handleKeyboardPress('\t'.charCodeAt(0))}
                    />
           <Keyboard layout={layout} display={display} onKeyPress={(c) => this.handleKeyboardPress(c.charCodeAt(0))}/>
