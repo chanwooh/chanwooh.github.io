@@ -6,6 +6,7 @@
 	flex-wrap: wrap;
 	align-content: flex-start;
     outline: 2px solid rgb(0, 0, 0);
+	margin-bottom: 20px;
 }
 
 .svg-board {

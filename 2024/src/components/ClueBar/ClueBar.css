@@ -1,5 +1,4 @@
 .cluebar {
-	margin-bottom: 10px;
 	width: 100%;
 	min-height: 60px;
 	max-height: 60px;
@@ -17,8 +16,10 @@
 .arrow {
 	/* width: 10%; */
 	font-size: 20px;
-	width: 5%;
+	width: 10%;
 	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%;
 }
 
 .cluebar-index {

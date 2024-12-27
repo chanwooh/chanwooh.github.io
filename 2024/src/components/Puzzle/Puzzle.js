@@ -58,9 +58,7 @@ class Puzzle extends React.Component {
     this.handleClueRowClick(squareIndex, updatedIsAcross ? "across" : "direction");
   }
 
-  handleKeyboardPress(e) {
-    var keyCode = e.charCodeAt(0);
-    
+  handleKeyboardPress(keyCode) {    
     if (this.state.isComplete || keyCode === NaN){
 
       return;
@@ -106,9 +104,9 @@ class Puzzle extends React.Component {
         currSquareIndex: nextSquareIndex == -1 ? 0 : this.state.currSquareIndex
       }, () => this.handleClick(nextSquareIndex == -1 ? 0 : nextSquareIndex));
 
-    } else if (keyCode == 123) {
+    } else if (keyCode == 8 || keyCode == 123) {
       /* Typed a backspace */
-      /* currently maps to opening brace in ascii because of keyboard layout */
+      /* Currently also maps to opening brace in ascii because of keyboard layout */
 
       // Copy for immutability
       var updatedSquares = this.state.squares.slice();
@@ -164,22 +162,19 @@ class Puzzle extends React.Component {
     };
     var display = {
       '{bksp}': 'del',
-      '{tab}': '   ',
-      '{lock}': '   ',
-      '{shift}': '   '
     }
     return (
       <div className="puzzle">
         <section className="cluebar-board">
-          <Board squares={this.state.squares} onClick={(i) => this.handleClick(i)} onKeyDown={(e) => this.handleKeyboardPress(e)} />
+          <Board squares={this.state.squares} onClick={(i) => this.handleClick(i)} onKeyDown={(e) => this.handleKeyboardPress(e.keyCode)} />
           <ClueBar direction={this.state.isStarted ? (this.state.isAcross ? "A" : "D") : ""}
                    puzzleIndex={this.state.isStarted ? this.state.squares[this.state.currSquareIndex][this.state.isAcross ? "across" : "down"]["puzzleIndex"] : ""}
                    hint={this.state.isStarted ? this.state.squares[this.state.currSquareIndex][this.state.isAcross ? "across" : "down"]["hint"]: "Click on any cell to start!"} 
                    onClueBarClick={() => this.handleClick(this.state.currSquareIndex)}
-                   onLeftClick={() => this.handleKeyboardPress('\t')}
-                   onRightClick={() => this.handleKeyboardPress('\t')}
+                   onLeftClick={() => this.handleKeyboardPress('\t'.charCodeAt(0))}
+                   onRightClick={() => this.handleKeyboardPress('\t'.charCodeAt(0))}
                    />
-          <Keyboard layout={layout} display={display} onKeyPress={(i) => this.handleKeyboardPress(i)}/>
+          <Keyboard layout={layout} display={display} onKeyPress={(c) => this.handleKeyboardPress(c.charCodeAt(0))}/>
         </section>
         <CongratsModal show={this.state.showModal} hideModal={() => this.hideModal()}/>
       </div>

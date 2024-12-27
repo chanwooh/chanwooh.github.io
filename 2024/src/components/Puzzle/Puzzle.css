@@ -2,11 +2,8 @@
 	box-sizing: border-box;
 }
 
-.cluebar-board > * {
-    margin: 20px 0;
-}
-
 .cluebar-board {
+	margin-top: 10px;
 	height: 100%;
 	width: 100%;
 }

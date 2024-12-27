@@ -1,14 +1,24 @@
 import React from 'react';
-// import court from './court_edited.png';
 import jingle from './nytcrosswordjingle.mp3';
 import './CongratsModal.css';
 
 class CongratsModal extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      jinglePlayed: false,
+    };
+  }
+
   render() {
     var className = this.props.show ? "modal-wrapper show" : "modal-wrapper";
     let audio = new Audio(jingle);
-    if (this.props.show) {
+    if (this.props.show && !this.state.jinglePlayed) {
       audio.play();
+      this.setState ({
+        jinglePlayed: true
+      });
     }
 
     return (
